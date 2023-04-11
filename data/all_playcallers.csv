@@ -1077,7 +1077,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,IND,2018_01_CIN_IND,Frank Reich,Matt Eberflus
 2018,DAL,2018_01_DAL_CAR,Scott Linehan,Rod Marinelli
 2018,CAR,2018_01_DAL_CAR,Norv Turner,Eric Washington
-2018,NE,2018_01_HOU_NE,Josh McDaniels,Bill Belichick
+2018,NE,2018_01_HOU_NE,Josh McDaniels,Brian Flores
 2018,HOU,2018_01_HOU_NE,Bill O'Brien,Romeo Crennel
 2018,JAX,2018_01_JAX_NYG,Nathaniel Hackett,Todd Wash
 2018,NYG,2018_01_JAX_NYG,Pat Shurmur,James Bettcher
@@ -1121,7 +1121,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,NYJ,2018_02_MIA_NYJ,Jeremy Bates,Todd Bowles
 2018,GB,2018_02_MIN_GB,Mike McCarthy,Mike Pettine
 2018,MIN,2018_02_MIN_GB,John DeFilippo,Mike Zimmer
-2018,NE,2018_02_NE_JAX,Josh McDaniels,Bill Belichick
+2018,NE,2018_02_NE_JAX,Josh McDaniels,Brian Flores
 2018,JAX,2018_02_NE_JAX,Nathaniel Hackett,Todd Wash
 2018,DAL,2018_02_NYG_DAL,Scott Linehan,Rod Marinelli
 2018,NYG,2018_02_NYG_DAL,Pat Shurmur,James Bettcher
@@ -1147,7 +1147,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,PHI,2018_03_IND_PHI,Doug Pederson,Jim Schwartz
 2018,LA,2018_03_LAC_LA,Sean McVay,Wade Phillips
 2018,LAC,2018_03_LAC_LA,Ken Whisenhunt,Gus Bradley
-2018,NE,2018_03_NE_DET,Josh McDaniels,Bill Belichick
+2018,NE,2018_03_NE_DET,Josh McDaniels,Brian Flores
 2018,DET,2018_03_NE_DET,Jim Bob Cooter,Matt Patricia
 2018,NO,2018_03_NO_ATL,Sean Payton,Dennis Allen
 2018,ATL,2018_03_NO_ATL,Steve Sarkisian,Dan Quinn
@@ -1178,7 +1178,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,DEN,2018_04_KC_DEN,Bill Musgrave,Joe Woods
 2018,KC,2018_04_KC_DEN,Andy Reid,Bob Sutton
 2018,MIA,2018_04_MIA_NE,Adam Gase,Matt Burke
-2018,NE,2018_04_MIA_NE,Josh McDaniels,Bill Belichick
+2018,NE,2018_04_MIA_NE,Josh McDaniels,Brian Flores
 2018,MIN,2018_04_MIN_LA,John DeFilippo,Mike Zimmer
 2018,LA,2018_04_MIN_LA,Sean McVay,Wade Phillips
 2018,NO,2018_04_NO_NYG,Sean Payton,Dennis Allen
@@ -1205,7 +1205,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,NYJ,2018_05_DEN_NYJ,Jeremy Bates,Todd Bowles
 2018,DET,2018_05_GB_DET,Jim Bob Cooter,Matt Patricia
 2018,GB,2018_05_GB_DET,Mike McCarthy,Mike Pettine
-2018,NE,2018_05_IND_NE,Josh McDaniels,Bill Belichick
+2018,NE,2018_05_IND_NE,Josh McDaniels,Brian Flores
 2018,IND,2018_05_IND_NE,Frank Reich,Matt Eberflus
 2018,JAX,2018_05_JAX_KC,Nathaniel Hackett,Todd Wash
 2018,KC,2018_05_JAX_KC,Andy Reid,Bob Sutton
@@ -1237,7 +1237,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,NYJ,2018_06_IND_NYJ,Jeremy Bates,Todd Bowles
 2018,JAX,2018_06_JAX_DAL,Nathaniel Hackett,Todd Wash
 2018,DAL,2018_06_JAX_DAL,Scott Linehan,Rod Marinelli
-2018,NE,2018_06_KC_NE,Josh McDaniels,Bill Belichick
+2018,NE,2018_06_KC_NE,Josh McDaniels,Brian Flores
 2018,KC,2018_06_KC_NE,Andy Reid,Bob Sutton
 2018,DEN,2018_06_LA_DEN,Bill Musgrave,Joe Woods
 2018,LA,2018_06_LA_DEN,Sean McVay,Wade Phillips
@@ -1273,7 +1273,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,SF,2018_07_LA_SF,Kyle Shanahan,Robert Saleh
 2018,MIN,2018_07_MIN_NYJ,John DeFilippo,Mike Zimmer
 2018,NYJ,2018_07_MIN_NYJ,Jeremy Bates,Todd Bowles
-2018,NE,2018_07_NE_CHI,Josh McDaniels,Bill Belichick
+2018,NE,2018_07_NE_CHI,Josh McDaniels,Brian Flores
 2018,CHI,2018_07_NE_CHI,Matt Nagy,Vic Fangio
 2018,NO,2018_07_NO_BAL,Sean Payton,Dennis Allen
 2018,BAL,2018_07_NO_BAL,Marty Mornhinweg,Don Martindale
@@ -1293,7 +1293,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,LV,2018_08_IND_OAK,Jon Gruden,Paul Guenther
 2018,MIA,2018_08_MIA_HOU,Adam Gase,Matt Burke
 2018,HOU,2018_08_MIA_HOU,Bill O'Brien,Romeo Crennel
-2018,NE,2018_08_NE_BUF,Josh McDaniels,Bill Belichick
+2018,NE,2018_08_NE_BUF,Josh McDaniels,Brian Flores
 2018,BUF,2018_08_NE_BUF,Brian Daboll,Leslie Frazier
 2018,NO,2018_08_NO_MIN,Sean Payton,Dennis Allen
 2018,MIN,2018_08_NO_MIN,John DeFilippo,Mike Zimmer
@@ -1315,7 +1315,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,BUF,2018_09_CHI_BUF,Brian Daboll,Leslie Frazier
 2018,MIN,2018_09_DET_MIN,John DeFilippo,Mike Zimmer
 2018,DET,2018_09_DET_MIN,Jim Bob Cooter,Matt Patricia
-2018,NE,2018_09_GB_NE,Josh McDaniels,Bill Belichick
+2018,NE,2018_09_GB_NE,Josh McDaniels,Brian Flores
 2018,GB,2018_09_GB_NE,Mike McCarthy,Mike Pettine
 2018,HOU,2018_09_HOU_DEN,Bill O'Brien,Romeo Crennel
 2018,DEN,2018_09_HOU_DEN,Bill Musgrave,Joe Woods
@@ -1354,7 +1354,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,MIA,2018_10_MIA_GB,Adam Gase,Matt Burke
 2018,GB,2018_10_MIA_GB,Mike McCarthy,Mike Pettine
 2018,TEN,2018_10_NE_TEN,Matt LaFleur,Dean Pees
-2018,NE,2018_10_NE_TEN,Josh McDaniels,Bill Belichick
+2018,NE,2018_10_NE_TEN,Josh McDaniels,Brian Flores
 2018,NO,2018_10_NO_CIN,Sean Payton,Dennis Allen
 2018,CIN,2018_10_NO_CIN,Bill Lazor,Teryl Austin
 2018,NYG,2018_10_NYG_SF,Pat Shurmur,James Bettcher
@@ -1365,7 +1365,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,WAS,2018_10_WAS_TB,Jay Gruden,Greg Manusky
 2018,CAR,2018_11_CAR_DET,Norv Turner,Eric Washington
 2018,DET,2018_11_CAR_DET,Jim Bob Cooter,Matt Patricia
-2018,CIN,2018_11_CIN_BAL,Bill Lazor,Teryl Austin
+2018,CIN,2018_11_CIN_BAL,Bill Lazor,Marvin Lewis
 2018,BAL,2018_11_CIN_BAL,Marty Mornhinweg,Don Martindale
 2018,ATL,2018_11_DAL_ATL,Steve Sarkisian,Dan Quinn
 2018,DAL,2018_11_DAL_ATL,Scott Linehan,Rod Marinelli
@@ -1396,7 +1396,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,DET,2018_12_CHI_DET,Jim Bob Cooter,Matt Patricia
 2018,CHI,2018_12_CHI_DET,Matt Nagy,Vic Fangio
 2018,CLE,2018_12_CLE_CIN,Freddie Kitchens,Gregg Williams
-2018,CIN,2018_12_CLE_CIN,Bill Lazor,Teryl Austin
+2018,CIN,2018_12_CLE_CIN,Bill Lazor,Marvin Lewis
 2018,MIN,2018_12_GB_MIN,John DeFilippo,Mike Zimmer
 2018,GB,2018_12_GB_MIN,Mike McCarthy,Mike Pettine
 2018,BUF,2018_12_JAX_BUF,Brian Daboll,Leslie Frazier
@@ -1404,7 +1404,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,MIA,2018_12_MIA_IND,Adam Gase,Matt Burke
 2018,IND,2018_12_MIA_IND,Frank Reich,Matt Eberflus
 2018,NYJ,2018_12_NE_NYJ,Jeremy Bates,Todd Bowles
-2018,NE,2018_12_NE_NYJ,Josh McDaniels,Bill Belichick
+2018,NE,2018_12_NE_NYJ,Josh McDaniels,Brian Flores
 2018,NYG,2018_12_NYG_PHI,Pat Shurmur,James Bettcher
 2018,PHI,2018_12_NYG_PHI,Doug Pederson,Jim Schwartz
 2018,LV,2018_12_OAK_BAL,Jon Gruden,Paul Guenther
@@ -1432,7 +1432,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,HOU,2018_13_CLE_HOU,Bill O'Brien,Romeo Crennel
 2018,CLE,2018_13_CLE_HOU,Freddie Kitchens,Gregg Williams
 2018,DEN,2018_13_DEN_CIN,Bill Musgrave,Joe Woods
-2018,CIN,2018_13_DEN_CIN,Bill Lazor,Teryl Austin
+2018,CIN,2018_13_DEN_CIN,Bill Lazor,Marvin Lewis
 2018,JAX,2018_13_IND_JAX,Scott Milanovich,Todd Wash
 2018,IND,2018_13_IND_JAX,Frank Reich,Matt Eberflus
 2018,KC,2018_13_KC_OAK,Andy Reid,Bob Sutton
@@ -1442,7 +1442,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,LAC,2018_13_LAC_PIT,Ken Whisenhunt,Gus Bradley
 2018,PIT,2018_13_LAC_PIT,Randy Fichtner,Mike Tomlin
 2018,MIN,2018_13_MIN_NE,John DeFilippo,Mike Zimmer
-2018,NE,2018_13_MIN_NE,Josh McDaniels,Bill Belichick
+2018,NE,2018_13_MIN_NE,Josh McDaniels,Brian Flores
 2018,DAL,2018_13_NO_DAL,Scott Linehan,Rod Marinelli
 2018,NO,2018_13_NO_DAL,Sean Payton,Dennis Allen
 2018,TEN,2018_13_NYJ_TEN,Matt LaFleur,Dean Pees
@@ -1458,7 +1458,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,CAR,2018_14_CAR_CLE,Norv Turner,Eric Washington
 2018,CLE,2018_14_CAR_CLE,Freddie Kitchens,Gregg Williams
 2018,LAC,2018_14_CIN_LAC,Ken Whisenhunt,Gus Bradley
-2018,CIN,2018_14_CIN_LAC,Bill Lazor,Teryl Austin
+2018,CIN,2018_14_CIN_LAC,Bill Lazor,Marvin Lewis
 2018,SF,2018_14_DEN_SF,Kyle Shanahan,Robert Saleh
 2018,DEN,2018_14_DEN_SF,Bill Musgrave,Joe Woods
 2018,DET,2018_14_DET_ARI,Jim Bob Cooter,Matt Patricia
@@ -1471,7 +1471,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,LA,2018_14_LA_CHI,Sean McVay,Wade Phillips
 2018,MIN,2018_14_MIN_SEA,John DeFilippo,Mike Zimmer
 2018,SEA,2018_14_MIN_SEA,Brian Schottenheimer,Ken Norton
-2018,NE,2018_14_NE_MIA,Josh McDaniels,Bill Belichick
+2018,NE,2018_14_NE_MIA,Josh McDaniels,Brian Flores
 2018,MIA,2018_14_NE_MIA,Adam Gase,Matt Burke
 2018,TB,2018_14_NO_TB,Todd Monken,Mark Duffner
 2018,NO,2018_14_NO_TB,Sean Payton,Dennis Allen
@@ -1500,11 +1500,11 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,MIN,2018_15_MIA_MIN,Kevin Stefanski,Mike Zimmer
 2018,MIA,2018_15_MIA_MIN,Adam Gase,Matt Burke
 2018,PIT,2018_15_NE_PIT,Randy Fichtner,Mike Tomlin
-2018,NE,2018_15_NE_PIT,Josh McDaniels,Bill Belichick
+2018,NE,2018_15_NE_PIT,Josh McDaniels,Brian Flores
 2018,CAR,2018_15_NO_CAR,Norv Turner,Eric Washington
 2018,NO,2018_15_NO_CAR,Sean Payton,Dennis Allen
 2018,LV,2018_15_OAK_CIN,Jon Gruden,Paul Guenther
-2018,CIN,2018_15_OAK_CIN,Bill Lazor,Teryl Austin
+2018,CIN,2018_15_OAK_CIN,Bill Lazor,Marvin Lewis
 2018,LA,2018_15_PHI_LA,Sean McVay,Wade Phillips
 2018,PHI,2018_15_PHI_LA,Doug Pederson,Jim Schwartz
 2018,SF,2018_15_SEA_SF,Kyle Shanahan,Robert Saleh
@@ -1520,11 +1520,11 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,LAC,2018_16_BAL_LAC,Ken Whisenhunt,Gus Bradley
 2018,BAL,2018_16_BAL_LAC,Marty Mornhinweg,Don Martindale
 2018,BUF,2018_16_BUF_NE,Brian Daboll,Leslie Frazier
-2018,NE,2018_16_BUF_NE,Josh McDaniels,Bill Belichick
+2018,NE,2018_16_BUF_NE,Josh McDaniels,Brian Flores
 2018,CHI,2018_16_CHI_SF,Matt Nagy,Vic Fangio
 2018,SF,2018_16_CHI_SF,Kyle Shanahan,Robert Saleh
 2018,CLE,2018_16_CIN_CLE,Freddie Kitchens,Gregg Williams
-2018,CIN,2018_16_CIN_CLE,Bill Lazor,Teryl Austin
+2018,CIN,2018_16_CIN_CLE,Bill Lazor,Marvin Lewis
 2018,DEN,2018_16_DEN_OAK,Bill Musgrave,Joe Woods
 2018,LV,2018_16_DEN_OAK,Jon Gruden,Paul Guenther
 2018,NYJ,2018_16_GB_NYJ,Jeremy Bates,Todd Bowles
@@ -1556,7 +1556,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,MIN,2018_17_CHI_MIN,Kevin Stefanski,Mike Zimmer
 2018,CHI,2018_17_CHI_MIN,Matt Nagy,Vic Fangio
 2018,PIT,2018_17_CIN_PIT,Randy Fichtner,Mike Tomlin
-2018,CIN,2018_17_CIN_PIT,Bill Lazor,Teryl Austin
+2018,CIN,2018_17_CIN_PIT,Bill Lazor,Marvin Lewis
 2018,CLE,2018_17_CLE_BAL,Freddie Kitchens,Gregg Williams
 2018,BAL,2018_17_CLE_BAL,Marty Mornhinweg,Don Martindale
 2018,NYG,2018_17_DAL_NYG,Pat Shurmur,James Bettcher
@@ -1571,7 +1571,7 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,DEN,2018_17_LAC_DEN,Bill Musgrave,Joe Woods
 2018,BUF,2018_17_MIA_BUF,Brian Daboll,Leslie Frazier
 2018,MIA,2018_17_MIA_BUF,Adam Gase,Matt Burke
-2018,NE,2018_17_NYJ_NE,Josh McDaniels,Bill Belichick
+2018,NE,2018_17_NYJ_NE,Josh McDaniels,Brian Flores
 2018,NYJ,2018_17_NYJ_NE,Jeremy Bates,Todd Bowles
 2018,KC,2018_17_OAK_KC,Andy Reid,Bob Sutton
 2018,LV,2018_17_OAK_KC,Jon Gruden,Paul Guenther
@@ -1591,15 +1591,15 @@ season,team,game_id,off_play_caller,def_play_caller
 2018,DAL,2018_19_DAL_LA,Scott Linehan,Rod Marinelli
 2018,IND,2018_19_IND_KC,Frank Reich,Matt Eberflus
 2018,KC,2018_19_IND_KC,Andy Reid,Bob Sutton
-2018,NE,2018_19_LAC_NE,Josh McDaniels,Bill Belichick
+2018,NE,2018_19_LAC_NE,Josh McDaniels,Brian Flores
 2018,LAC,2018_19_LAC_NE,Ken Whisenhunt,Gus Bradley
 2018,NO,2018_19_PHI_NO,Sean Payton,Dennis Allen
 2018,PHI,2018_19_PHI_NO,Doug Pederson,Jim Schwartz
 2018,NO,2018_20_LA_NO,Sean Payton,Dennis Allen
 2018,LA,2018_20_LA_NO,Sean McVay,Wade Phillips
-2018,NE,2018_20_NE_KC,Josh McDaniels,Bill Belichick
+2018,NE,2018_20_NE_KC,Josh McDaniels,Brian Flores
 2018,KC,2018_20_NE_KC,Andy Reid,Bob Sutton
-2018,NE,2018_21_NE_LA,Josh McDaniels,Bill Belichick
+2018,NE,2018_21_NE_LA,Josh McDaniels,Brian Flores
 2018,LA,2018_21_NE_LA,Sean McVay,Wade Phillips
 2019,ATL,2019_01_ATL_MIN,Dirk Koetter,Dan Quinn
 2019,MIN,2019_01_ATL_MIN,Kevin Stefanski,Mike Zimmer
