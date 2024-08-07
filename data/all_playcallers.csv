@@ -7171,22 +7171,6 @@ season,week,team,game_id,off_play_caller,def_play_caller
 2013,15,LA,2013_15_NO_STL,Brian Schottenheimer,Tim Walton
 2013,16,LA,2013_16_TB_STL,Brian Schottenheimer,Tim Walton
 2013,17,LA,2013_17_STL_SEA,Brian Schottenheimer,Tim Walton
-2013,1,LA,2013_01_ARI_STL,Brian Schottenheimer,Tim Walton
-2013,2,LA,2013_02_STL_ATL,Brian Schottenheimer,Tim Walton
-2013,3,LA,2013_03_STL_DAL,Brian Schottenheimer,Tim Walton
-2013,4,LA,2013_04_SF_STL,Brian Schottenheimer,Tim Walton
-2013,5,LA,2013_05_JAX_STL,Brian Schottenheimer,Tim Walton
-2013,6,LA,2013_06_STL_HOU,Brian Schottenheimer,Tim Walton
-2013,7,LA,2013_07_STL_CAR,Brian Schottenheimer,Tim Walton
-2013,8,LA,2013_08_SEA_STL,Brian Schottenheimer,Tim Walton
-2013,9,LA,2013_09_TEN_STL,Brian Schottenheimer,Tim Walton
-2013,10,LA,2013_10_STL_IND,Brian Schottenheimer,Tim Walton
-2013,12,LA,2013_12_CHI_STL,Brian Schottenheimer,Tim Walton
-2013,13,LA,2013_13_STL_SF,Brian Schottenheimer,Tim Walton
-2013,14,LA,2013_14_STL_ARI,Brian Schottenheimer,Tim Walton
-2013,15,LA,2013_15_NO_STL,Brian Schottenheimer,Tim Walton
-2013,16,LA,2013_16_TB_STL,Brian Schottenheimer,Tim Walton
-2013,17,LA,2013_17_STL_SEA,Brian Schottenheimer,Tim Walton
 2014,1,LA,2014_01_MIN_STL,Brian Schottenheimer,Gregg Williams
 2014,2,LA,2014_02_STL_TB,Brian Schottenheimer,Gregg Williams
 2014,3,LA,2014_03_DAL_STL,Brian Schottenheimer,Gregg Williams
@@ -7305,27 +7289,6 @@ season,week,team,game_id,off_play_caller,def_play_caller
 2020,17,LA,2020_17_ARI_LA,Sean McVay,Brandon Staley
 2020,18,LA,2020_18_LA_SEA,Sean McVay,Brandon Staley
 2020,19,LA,2020_19_LA_GB,Sean McVay,Brandon Staley
-2021,1,LA,2021_01_CHI_LA,Sean McVay,Raheem Morris
-2021,2,LA,2021_02_LA_IND,Sean McVay,Raheem Morris
-2021,3,LA,2021_03_TB_LA,Sean McVay,Raheem Morris
-2021,4,LA,2021_04_ARI_LA,Sean McVay,Raheem Morris
-2021,5,LA,2021_05_LA_SEA,Sean McVay,Raheem Morris
-2021,6,LA,2021_06_LA_NYG,Sean McVay,Raheem Morris
-2021,7,LA,2021_07_DET_LA,Sean McVay,Raheem Morris
-2021,8,LA,2021_08_LA_HOU,Sean McVay,Raheem Morris
-2021,9,LA,2021_09_TEN_LA,Sean McVay,Raheem Morris
-2021,10,LA,2021_10_LA_SF,Sean McVay,Raheem Morris
-2021,12,LA,2021_12_LA_GB,Sean McVay,Raheem Morris
-2021,13,LA,2021_13_JAX_LA,Sean McVay,Raheem Morris
-2021,14,LA,2021_14_LA_ARI,Sean McVay,Raheem Morris
-2021,15,LA,2021_15_SEA_LA,Sean McVay,Raheem Morris
-2021,16,LA,2021_16_LA_MIN,Sean McVay,Raheem Morris
-2021,17,LA,2021_17_LA_BAL,Sean McVay,Raheem Morris
-2021,18,LA,2021_18_SF_LA,Sean McVay,Raheem Morris
-2021,19,LA,2021_19_ARI_LA,Sean McVay,Raheem Morris
-2021,20,LA,2021_20_LA_TB,Sean McVay,Raheem Morris
-2021,21,LA,2021_21_SF_LA,Sean McVay,Raheem Morris
-2021,22,LA,2021_22_LA_CIN,Sean McVay,Raheem Morris
 2021,1,LA,2021_01_CHI_LA,Sean McVay,Raheem Morris
 2021,2,LA,2021_02_LA_IND,Sean McVay,Raheem Morris
 2021,3,LA,2021_03_TB_LA,Sean McVay,Raheem Morris
@@ -7665,22 +7628,6 @@ season,week,team,game_id,off_play_caller,def_play_caller
 2014,15,LAC,2014_15_DEN_SD,Frank Reich,John Pagano
 2014,16,LAC,2014_16_SD_SF,Frank Reich,John Pagano
 2014,17,LAC,2014_17_SD_KC,Frank Reich,John Pagano
-2015,1,LAC,2015_01_DET_SD,Frank Reich,John Pagano
-2015,2,LAC,2015_02_SD_CIN,Frank Reich,John Pagano
-2015,3,LAC,2015_03_SD_MIN,Frank Reich,John Pagano
-2015,4,LAC,2015_04_CLE_SD,Frank Reich,John Pagano
-2015,5,LAC,2015_05_PIT_SD,Frank Reich,John Pagano
-2015,6,LAC,2015_06_SD_GB,Frank Reich,John Pagano
-2015,7,LAC,2015_07_OAK_SD,Frank Reich,John Pagano
-2015,8,LAC,2015_08_SD_BAL,Frank Reich,John Pagano
-2015,9,LAC,2015_09_CHI_SD,Frank Reich,John Pagano
-2015,11,LAC,2015_11_KC_SD,Frank Reich,John Pagano
-2015,12,LAC,2015_12_SD_JAX,Frank Reich,John Pagano
-2015,13,LAC,2015_13_DEN_SD,Frank Reich,John Pagano
-2015,14,LAC,2015_14_SD_KC,Frank Reich,John Pagano
-2015,15,LAC,2015_15_MIA_SD,Frank Reich,John Pagano
-2015,16,LAC,2015_16_SD_OAK,Frank Reich,John Pagano
-2015,17,LAC,2015_17_SD_DEN,Frank Reich,John Pagano
 2015,1,LAC,2015_01_DET_SD,Frank Reich,John Pagano
 2015,2,LAC,2015_02_SD_CIN,Frank Reich,John Pagano
 2015,3,LAC,2015_03_SD_MIN,Frank Reich,John Pagano
@@ -8095,22 +8042,6 @@ season,week,team,game_id,off_play_caller,def_play_caller
 2013,15,LV,2013_15_KC_OAK,Greg Olson,Jason Tarver
 2013,16,LV,2013_16_OAK_SD,Greg Olson,Jason Tarver
 2013,17,LV,2013_17_DEN_OAK,Greg Olson,Jason Tarver
-2013,1,LV,2013_01_OAK_IND,Greg Olson,Jason Tarver
-2013,2,LV,2013_02_JAX_OAK,Greg Olson,Jason Tarver
-2013,3,LV,2013_03_OAK_DEN,Greg Olson,Jason Tarver
-2013,4,LV,2013_04_WAS_OAK,Greg Olson,Jason Tarver
-2013,5,LV,2013_05_SD_OAK,Greg Olson,Jason Tarver
-2013,6,LV,2013_06_OAK_KC,Greg Olson,Jason Tarver
-2013,8,LV,2013_08_PIT_OAK,Greg Olson,Jason Tarver
-2013,9,LV,2013_09_PHI_OAK,Greg Olson,Jason Tarver
-2013,10,LV,2013_10_OAK_NYG,Greg Olson,Jason Tarver
-2013,11,LV,2013_11_OAK_HOU,Greg Olson,Jason Tarver
-2013,12,LV,2013_12_TEN_OAK,Greg Olson,Jason Tarver
-2013,13,LV,2013_13_OAK_DAL,Greg Olson,Jason Tarver
-2013,14,LV,2013_14_OAK_NYJ,Greg Olson,Jason Tarver
-2013,15,LV,2013_15_KC_OAK,Greg Olson,Jason Tarver
-2013,16,LV,2013_16_OAK_SD,Greg Olson,Jason Tarver
-2013,17,LV,2013_17_DEN_OAK,Greg Olson,Jason Tarver
 2014,1,LV,2014_01_OAK_NYJ,Greg Olson,Jason Tarver
 2014,2,LV,2014_02_HOU_OAK,Greg Olson,Jason Tarver
 2014,3,LV,2014_03_OAK_NE,Greg Olson,Jason Tarver
@@ -8127,38 +8058,6 @@ season,week,team,game_id,off_play_caller,def_play_caller
 2014,15,LV,2014_15_OAK_KC,Greg Olson,Jason Tarver
 2014,16,LV,2014_16_BUF_OAK,Greg Olson,Jason Tarver
 2014,17,LV,2014_17_OAK_DEN,Greg Olson,Jason Tarver
-2014,1,LV,2014_01_OAK_NYJ,Greg Olson,Jason Tarver
-2014,2,LV,2014_02_HOU_OAK,Greg Olson,Jason Tarver
-2014,3,LV,2014_03_OAK_NE,Greg Olson,Jason Tarver
-2014,4,LV,2014_04_MIA_OAK,Greg Olson,Jason Tarver
-2014,6,LV,2014_06_SD_OAK,Greg Olson,Jason Tarver
-2014,7,LV,2014_07_ARI_OAK,Greg Olson,Jason Tarver
-2014,8,LV,2014_08_OAK_CLE,Greg Olson,Jason Tarver
-2014,9,LV,2014_09_OAK_SEA,Greg Olson,Jason Tarver
-2014,10,LV,2014_10_DEN_OAK,Greg Olson,Jason Tarver
-2014,11,LV,2014_11_OAK_SD,Greg Olson,Jason Tarver
-2014,12,LV,2014_12_KC_OAK,Greg Olson,Jason Tarver
-2014,13,LV,2014_13_OAK_STL,Greg Olson,Jason Tarver
-2014,14,LV,2014_14_SF_OAK,Greg Olson,Jason Tarver
-2014,15,LV,2014_15_OAK_KC,Greg Olson,Jason Tarver
-2014,16,LV,2014_16_BUF_OAK,Greg Olson,Jason Tarver
-2014,17,LV,2014_17_OAK_DEN,Greg Olson,Jason Tarver
-2015,1,LV,2015_01_CIN_OAK,Bill Musgrave,Ken Norton
-2015,2,LV,2015_02_BAL_OAK,Bill Musgrave,Ken Norton
-2015,3,LV,2015_03_OAK_CLE,Bill Musgrave,Ken Norton
-2015,4,LV,2015_04_OAK_CHI,Bill Musgrave,Ken Norton
-2015,5,LV,2015_05_DEN_OAK,Bill Musgrave,Ken Norton
-2015,7,LV,2015_07_OAK_SD,Bill Musgrave,Ken Norton
-2015,8,LV,2015_08_NYJ_OAK,Bill Musgrave,Ken Norton
-2015,9,LV,2015_09_OAK_PIT,Bill Musgrave,Ken Norton
-2015,10,LV,2015_10_MIN_OAK,Bill Musgrave,Ken Norton
-2015,11,LV,2015_11_OAK_DET,Bill Musgrave,Ken Norton
-2015,12,LV,2015_12_OAK_TEN,Bill Musgrave,Ken Norton
-2015,13,LV,2015_13_KC_OAK,Bill Musgrave,Ken Norton
-2015,14,LV,2015_14_OAK_DEN,Bill Musgrave,Ken Norton
-2015,15,LV,2015_15_GB_OAK,Bill Musgrave,Ken Norton
-2015,16,LV,2015_16_SD_OAK,Bill Musgrave,Ken Norton
-2015,17,LV,2015_17_OAK_KC,Bill Musgrave,Ken Norton
 2015,1,LV,2015_01_CIN_OAK,Bill Musgrave,Ken Norton
 2015,2,LV,2015_02_BAL_OAK,Bill Musgrave,Ken Norton
 2015,3,LV,2015_03_OAK_CLE,Bill Musgrave,Ken Norton
@@ -14056,69 +13955,69 @@ season,week,team,game_id,off_play_caller,def_play_caller
 2024,16,WAS,2024_16_PHI_WAS,Kliff Kingsbury,Joe Whitt Jr.
 2024,17,WAS,2024_17_ATL_WAS,Kliff Kingsbury,Joe Whitt Jr.
 2024,18,WAS,2024_18_WAS_DAL,Kliff Kingsbury,Joe Whitt Jr.
-2024,SF,2024_03_SF_LA,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_04_NE_SF,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_05_ARI_SF,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_06_SF_SEA,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_07_KC_SF,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_08_DAL_SF,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_10_SF_TB,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_11_SEA_SF,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_12_SF_GB,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_13_SF_BUF,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_14_CHI_SF,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_15_LA_SF,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_16_SF_MIA,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_17_DET_SF,Kyle Shanahan,Nick Sorensen,
-2024,SF,2024_18_SF_ARI,Kyle Shanahan,Nick Sorensen,
-2024,TB,2024_01_WAS_TB,Liam Coen,Todd Bowles,
-2024,TB,2024_02_TB_DET,Liam Coen,Todd Bowles,
-2024,TB,2024_03_DEN_TB,Liam Coen,Todd Bowles,
-2024,TB,2024_04_PHI_TB,Liam Coen,Todd Bowles,
-2024,TB,2024_05_TB_ATL,Liam Coen,Todd Bowles,
-2024,TB,2024_06_TB_NO,Liam Coen,Todd Bowles,
-2024,TB,2024_07_BAL_TB,Liam Coen,Todd Bowles,
-2024,TB,2024_08_ATL_TB,Liam Coen,Todd Bowles,
-2024,TB,2024_09_TB_KC,Liam Coen,Todd Bowles,
-2024,TB,2024_10_SF_TB,Liam Coen,Todd Bowles,
-2024,TB,2024_12_TB_NYG,Liam Coen,Todd Bowles,
-2024,TB,2024_13_TB_CAR,Liam Coen,Todd Bowles,
-2024,TB,2024_14_LV_TB,Liam Coen,Todd Bowles,
-2024,TB,2024_15_TB_LAC,Liam Coen,Todd Bowles,
-2024,TB,2024_16_TB_DAL,Liam Coen,Todd Bowles,
-2024,TB,2024_17_CAR_TB,Liam Coen,Todd Bowles,
-2024,TB,2024_18_NO_TB,Liam Coen,Todd Bowles,
-2024,TEN,2024_01_TEN_CHI,Nick Holz,Brian Callahan,
-2024,TEN,2024_02_NYJ_TEN,Nick Holz,Brian Callahan,
-2024,TEN,2024_03_GB_TEN,Nick Holz,Brian Callahan,
-2024,TEN,2024_04_TEN_MIA,Nick Holz,Brian Callahan,
-2024,TEN,2024_06_IND_TEN,Nick Holz,Brian Callahan,
-2024,TEN,2024_07_TEN_BUF,Nick Holz,Brian Callahan,
-2024,TEN,2024_08_TEN_DET,Nick Holz,Brian Callahan,
-2024,TEN,2024_09_NE_TEN,Nick Holz,Brian Callahan,
-2024,TEN,2024_10_TEN_LAC,Nick Holz,Brian Callahan,
-2024,TEN,2024_11_MIN_TEN,Nick Holz,Brian Callahan,
-2024,TEN,2024_12_TEN_HOU,Nick Holz,Brian Callahan,
-2024,TEN,2024_13_TEN_WAS,Nick Holz,Brian Callahan,
-2024,TEN,2024_14_JAX_TEN,Nick Holz,Brian Callahan,
-2024,TEN,2024_15_CIN_TEN,Nick Holz,Brian Callahan,
-2024,TEN,2024_16_TEN_IND,Nick Holz,Brian Callahan,
-2024,TEN,2024_17_TEN_JAX,Nick Holz,Brian Callahan,
-2024,TEN,2024_18_HOU_TEN,Nick Holz,Brian Callahan,
-2024,WAS,2024_01_WAS_TB,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_02_NYG_WAS,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_03_WAS_CIN,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_04_WAS_ARI,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_05_CLE_WAS,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_06_WAS_BAL,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_07_CAR_WAS,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_08_CHI_WAS,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_09_WAS_NYG,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_10_PIT_WAS,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_11_WAS_PHI,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_12_DAL_WAS,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_13_TEN_WAS,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_15_WAS_NO,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_16_PHI_WAS,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_17_ATL_WAS,Kliff Kingsbury,Joe Whitt Jr.,
-2024,WAS,2024_18_WAS_DAL,Kliff Kingsbury,Joe Whitt Jr.,
+2024,SF,2024_03_SF_LA,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_04_NE_SF,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_05_ARI_SF,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_06_SF_SEA,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_07_KC_SF,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_08_DAL_SF,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_10_SF_TB,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_11_SEA_SF,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_12_SF_GB,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_13_SF_BUF,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_14_CHI_SF,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_15_LA_SF,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_16_SF_MIA,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_17_DET_SF,Kyle Shanahan,Nick Sorensen,NA
+2024,SF,2024_18_SF_ARI,Kyle Shanahan,Nick Sorensen,NA
+2024,TB,2024_01_WAS_TB,Liam Coen,Todd Bowles,NA
+2024,TB,2024_02_TB_DET,Liam Coen,Todd Bowles,NA
+2024,TB,2024_03_DEN_TB,Liam Coen,Todd Bowles,NA
+2024,TB,2024_04_PHI_TB,Liam Coen,Todd Bowles,NA
+2024,TB,2024_05_TB_ATL,Liam Coen,Todd Bowles,NA
+2024,TB,2024_06_TB_NO,Liam Coen,Todd Bowles,NA
+2024,TB,2024_07_BAL_TB,Liam Coen,Todd Bowles,NA
+2024,TB,2024_08_ATL_TB,Liam Coen,Todd Bowles,NA
+2024,TB,2024_09_TB_KC,Liam Coen,Todd Bowles,NA
+2024,TB,2024_10_SF_TB,Liam Coen,Todd Bowles,NA
+2024,TB,2024_12_TB_NYG,Liam Coen,Todd Bowles,NA
+2024,TB,2024_13_TB_CAR,Liam Coen,Todd Bowles,NA
+2024,TB,2024_14_LV_TB,Liam Coen,Todd Bowles,NA
+2024,TB,2024_15_TB_LAC,Liam Coen,Todd Bowles,NA
+2024,TB,2024_16_TB_DAL,Liam Coen,Todd Bowles,NA
+2024,TB,2024_17_CAR_TB,Liam Coen,Todd Bowles,NA
+2024,TB,2024_18_NO_TB,Liam Coen,Todd Bowles,NA
+2024,TEN,2024_01_TEN_CHI,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_02_NYJ_TEN,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_03_GB_TEN,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_04_TEN_MIA,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_06_IND_TEN,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_07_TEN_BUF,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_08_TEN_DET,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_09_NE_TEN,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_10_TEN_LAC,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_11_MIN_TEN,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_12_TEN_HOU,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_13_TEN_WAS,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_14_JAX_TEN,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_15_CIN_TEN,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_16_TEN_IND,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_17_TEN_JAX,Nick Holz,Brian Callahan,NA
+2024,TEN,2024_18_HOU_TEN,Nick Holz,Brian Callahan,NA
+2024,WAS,2024_01_WAS_TB,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_02_NYG_WAS,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_03_WAS_CIN,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_04_WAS_ARI,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_05_CLE_WAS,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_06_WAS_BAL,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_07_CAR_WAS,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_08_CHI_WAS,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_09_WAS_NYG,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_10_PIT_WAS,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_11_WAS_PHI,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_12_DAL_WAS,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_13_TEN_WAS,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_15_WAS_NO,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_16_PHI_WAS,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_17_ATL_WAS,Kliff Kingsbury,Joe Whitt Jr.,NA
+2024,WAS,2024_18_WAS_DAL,Kliff Kingsbury,Joe Whitt Jr.,NA
