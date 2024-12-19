@@ -2603,11 +2603,11 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2024,11,CHI,2024_11_GB_CHI,Thomas Brown,Matt Eberflus,Matt Eberflus
 2024,12,CHI,2024_12_MIN_CHI,Thomas Brown,Matt Eberflus,Matt Eberflus
 2024,13,CHI,2024_13_CHI_DET,Thomas Brown,Matt Eberflus,Matt Eberflus
-2024,14,CHI,2024_14_CHI_SF,Thomas Brown,Matt Eberflus,Matt Eberflus
-2024,15,CHI,2024_15_CHI_MIN,Thomas Brown,Matt Eberflus,Matt Eberflus
-2024,16,CHI,2024_16_DET_CHI,Thomas Brown,Matt Eberflus,Matt Eberflus
-2024,17,CHI,2024_17_SEA_CHI,Thomas Brown,Matt Eberflus,Matt Eberflus
-2024,18,CHI,2024_18_CHI_GB,Thomas Brown,Matt Eberflus,Matt Eberflus
+2024,14,CHI,2024_14_CHI_SF,Thomas Brown,Eric Washington,Thomas Brown
+2024,15,CHI,2024_15_CHI_MIN,Thomas Brown,Eric Washington,Thomas Brown
+2024,16,CHI,2024_16_DET_CHI,Thomas Brown,Eric Washington,Thomas Brown
+2024,17,CHI,2024_17_SEA_CHI,Thomas Brown,Eric Washington,Thomas Brown
+2024,18,CHI,2024_18_CHI_GB,Thomas Brown,Eric Washington,Thomas Brown
 1999,1,CIN,1999_01_CIN_TEN,Bruce Coslett,Dick LeBeau,Bruce Coslet
 1999,2,CIN,1999_02_SD_CIN,Bruce Coslett,Dick LeBeau,Bruce Coslet
 1999,3,CIN,1999_03_CIN_CAR,Bruce Coslett,Dick LeBeau,Bruce Coslet
