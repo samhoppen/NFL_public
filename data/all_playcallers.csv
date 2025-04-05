@@ -5232,7 +5232,7 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2024,17,GB,2024_17_GB_MIN,Matt LaFleur,Jeff Hafley,Matt LaFleur
 2024,18,GB,2024_18_CHI_GB,Matt LaFleur,Jeff Hafley,Matt LaFleur
 2025,1,GB,2025_01_GB,Matt LaFleur,Jeff Hafley,Matt LaFleur
-2024,19,"GB	",2024_19_GB_PHI,Matt LaFleur,Jeff Hafley,Matt LaFleur
+2024,19,GB,2024_19_GB_PHI,Matt LaFleur,Jeff Hafley,Matt LaFleur
 2002,1,HOU,2002_01_DAL_HOU,Chris Palmer,Vic Fangio,Dom Capers
 2002,2,HOU,2002_02_HOU_SD,Chris Palmer,Vic Fangio,Dom Capers
 2002,3,HOU,2002_03_IND_HOU,Chris Palmer,Vic Fangio,Dom Capers
@@ -6947,9 +6947,9 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2024,17,KC,2024_17_KC_PIT,Andy Reid,Steve Spagnuolo,Andy Reid
 2024,18,KC,2024_18_KC_DEN,Andy Reid,Steve Spagnuolo,Andy Reid
 2025,1,KC,2025_01_KC,Andy Reid,Steve Spagnuolo,Andy Reid
-2024,20,"KC	",2024_20_HOU_KC,Andy Reid,Steve Spagnuolo,Andy Reid
-2024,21,"KC	",2024_21_BUF_KC,Andy Reid,Steve Spagnuolo,Andy Reid
-2024,22,"KC	",2024_22_KC_PHI,Andy Reid,Steve Spagnuolo,Andy Reid
+2024,20,KC,2024_20_HOU_KC,Andy Reid,Steve Spagnuolo,Andy Reid
+2024,21,KC,2024_21_BUF_KC,Andy Reid,Steve Spagnuolo,Andy Reid
+2024,22,KC,2024_22_KC_PHI,Andy Reid,Steve Spagnuolo,Andy Reid
 1999,1,LA,1999_01_BAL_STL,Mike Martz,Peter Giunta,Dick Vermeil
 1999,3,LA,1999_03_ATL_STL,Mike Martz,Peter Giunta,Dick Vermeil
 1999,4,LA,1999_04_STL_CIN,Mike Martz,Peter Giunta,Dick Vermeil
@@ -7392,8 +7392,8 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2024,17,LA,2024_17_ARI_LA,Sean McVay,Chris Shula,Sean McVay
 2024,18,LA,2024_18_SEA_LA,Sean McVay,Chris Shula,Sean McVay
 2025,1,LA,2025_01_LA,Sean McVay,Chris Shula,Sean McVay
-2024,19,"LA	",2024_19_MIN_LA,Sean McVay,Chris Shula,Sean McVay
-2024,20,"LA	",2024_20_LA_PHI,Sean McVay,Chris Shula,Sean McVay
+2024,19,LA,2024_19_MIN_LA,Sean McVay,Chris Shula,Sean McVay
+2024,20,LA,2024_20_LA_PHI,Sean McVay,Chris Shula,Sean McVay
 1999,2,LAC,1999_02_SD_CIN,Geep Chryst,Joe Pascale,Mike Riley
 1999,3,LAC,1999_03_IND_SD,Geep Chryst,Joe Pascale,Mike Riley
 1999,4,LAC,1999_04_KC_SD,Geep Chryst,Joe Pascale,Mike Riley
@@ -13141,7 +13141,7 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2024,17,TB,2024_17_CAR_TB,Liam Coen,Todd Bowles,Todd Bowles
 2024,18,TB,2024_18_NO_TB,Liam Coen,Todd Bowles,Todd Bowles
 2025,1,TB,2025_01_TB,Josh Grizzard,Todd Bowles,Todd Bowles
-2024,19,"TB	",2024_19_WAS_TB,Liam Coen,Todd Bowles,Todd Bowles
+2024,19,TB,2024_19_WAS_TB,Liam Coen,Todd Bowles,Todd Bowles
 1999,1,TEN,1999_01_CIN_TEN,Les Steckel,Gregg Williams,Jeff Fisher
 1999,2,TEN,1999_02_CLE_TEN,Les Steckel,Gregg Williams,Jeff Fisher
 1999,3,TEN,1999_03_TEN_JAX,Les Steckel,Gregg Williams,Jeff Fisher
