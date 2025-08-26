@@ -1,0 +1,43 @@
+library(httr)
+library(dplyr)
+library(jsonlite)
+library(tidyverse)
+
+
+nfl_rushing <- data.frame()
+for(yr in c(2019:2024)){
+  url <- paste0("https://premium.pff.com/api/v1/facet/rushing/summary?league=nfl&season=",yr,"&week=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,28,29,30,32")
+  cookie <- '_ga=GA1.1.1911505820.1738795457; _cc_id=e92f48eeba0e07d8e87eab644d497a17; FPID=FPID2.2.G%2BIcad3C23B7hJX10VuozYzV7P4Sd1E1QhUY0yLPhTc%3D.1738795457; FPAU=1.2.99632523.1738795457; _gtmeec=e30%3D; _fbp=fb.1.1738795457233.1851222021; _sharedid=c63e73db-9c8c-4b0c-8a88-ed47db4f4016; _sharedid_cst=zix7LPQsHA%3D%3D; _scid=kmIjKCbf6WGChxutPdny6JL376QLVkYP-MEPJw; _sharedID=46b4f3ac-a782-4d1c-b60f-dafa25005331; _sharedID_cst=zix7LPQsHA%3D%3D; _tt_enable_cookie=1; _ttp=01JP2MRN7YJ1DXZ4XFJQ2DJT59_.tt.1; __gads=ID=ba01d17ca1fbca78:T=1741698135:RT=1741698135:S=ALNI_MZ-KoUO5E0heQ7nNLCyMN4pH2LiYA; __gpi=UID=0000106b7318888c:T=1741698135:RT=1741698135:S=ALNI_MZuuEj1BjVserbw2HwXvZSG1c4ilA; __eoi=ID=29f1c96e82218229:T=1741698135:RT=1741698135:S=AA-AfjYS1JwRpalWQlldEfMK6K99; cto_bundle=O2D7HV8xeHdWRE5kM3d1cHhESjlYTGxSaSUyRjZLaDFKOE5NWkNDc25KZk9UdGlnMDB1R3I5emFwWFlwS05lS1h0eHh0aFJBSDIlMkZuY3ZUQlBXemRlbjA4V2JCQ2E5S01PUjBxNXY5Wm8lMkI0Ym1EODdzcWxEciUyRnhualglMkZBS3lxajF4MXp0RkFqaHBCR1hHVXRrcm1qcnNlbEh0UW5MSEJTNU9xZFdITXpSTzc3U3hsajJQeCUyQmVUYnZNYXFzTVQ3WU9CbFlqWm8; cto_bidid=vwVOPV9iQ2Q4anRwbkpRVm8lMkZIMVZ0aEV4OTM1Qkd0UHRxWE1sZTJqejlrSE1jMmtqdiUyQkJoNnNnOWJXaUdsSyUyQmdZRXhiMGF2ZUdrRGdVNjdobk4zaWZxYlRnN2pCVkdGWmszZGpDNHFNTXZiV1FMJTJCM0x2V1RqZ1JhQ2pJbDZKUUZUJTJGNTU3Mm1RSnBqUmR4djBKSFpHZE1JJTJCNUElM0QlM0Q; _ScCbts=%5B%22243%3Bchrome.2%3A2%3A5%22%2C%22300%3Bchrome.2%3A2%3A5%22%5D; _sctr=1%7C1743742800000; external_id=ddbc98a6-23ce-4491-a37a-c526f1ab53b0; c_groot_access_token=fnwKiUET2GWFCiwdYzltgm4pyOeZcsXzzTqeD_FUNWg_Pz5pmKmDWCAvm0fhn32z; c_groot_access_ts=2025-04-05T16:32:32Z; c_groot_refresh_token=c4JaZ6Wqe8GJ_Bogbo-El8ZH_-HIUTzAylsQBmRKbumH_N_l5axf0ZJ2lu1RxS4N; FPLC=dA%2FlcCMx1O9Q%2FADCqe7qKe%2Bu46PgHdt14sDHEtFKwc2Gv0KnlYOQypx1tIq6PeWYpTv7ct%2F3rKz7UXGroUxtEP5ocD8WuVYwPIzaBR0ry7Ki3rMtoSpGsMXxfwB%2FrQ%3D%3D; _hp2_ses_props.2100373990=%7B%22ts%22%3A1743870753166%2C%22d%22%3A%22www.pff.com%22%2C%22h%22%3A%22%2F%22%7D; _premium_key=SFMyNTY.g3QAAAABbQAAABZndWFyZGlhbl9kZWZhdWx0X3Rva2VubQAAAlhleUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGRXUWlPaUpRY21WdGFYVnRJaXdpWlhod0lqb3hOelF6T0RjeU5UVTJMQ0pwWVhRaU9qRTNORE00TnpBM05UWXNJbWx6Y3lJNklsQnlaVzFwZFcwaUxDSnFkR2tpT2lKa1ptWTNZamt6TVMwMFpqSm1MVFExTXpRdFlUZGtZeTFsTW1JNE1qRmxOVFJtWWpBaUxDSnVZbVlpT2pFM05ETTROekEzTlRVc0luQmxiU0k2ZXlKaFlXWWlPakVzSW01allXRWlPakVzSW01bWJDSTZNU3dpZFdac0lqb3hmU3dpYzNWaUlqb2llMXdpWlcxaGFXeGNJanBjSW1KbmNtVjBZMmhBWjIxaGFXd3VZMjl0WENJc1hDSm1aV0YwZFhKbGMxd2lPbHRkTEZ3aVptbHljM1JmYm1GdFpWd2lPbTUxYkd3c1hDSnNZWE4wWDI1aGJXVmNJanB1ZFd4c0xGd2lkV2xrWENJNlhDSXhNVGt4WTJZMU9TMWhPV0kwTFRSaU9ESXRPVGswTWkwd1lUVTVPR00zT0RVNVpqVmNJaXhjSW5abGNuUnBZMkZzWENJNlhDSkRiMjV6ZFcxbGNsd2lmU0lzSW5SNWNDSTZJbUZqWTJWemN5SjkudFZfdUJjbHBKc0hoRFJRY0E2M19ZbHdsalhGbFVXYUwzd2liMFhpWGVSY051aFgwb3hsQlZCMHN4V2R3c1hHSjhjTldKOEQ0V1BOZWlOMDlLX1pSQ3c.nRlrq4RWVI4ZnihReaGPycGDomEqEiu1VPq_Y-maLSc; _ga_123456789=GS1.1.1743870753.8.1.1743872232.0.0.1612436663; _scid_r=lGIjKCbf6WGChxutPdny6JL376QLVkYP-MEPRw; _hp2_id.2100373990=%7B%22userId%22%3A%226993897955886911%22%2C%22pageviewId%22%3A%228179632236532423%22%2C%22sessionId%22%3A%22512212428183117%22%2C%22identity%22%3A%221191cf59-a9b4-4b82-9942-0a598c7859f5%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%7D'
+
+  temp <- GET(
+    url,
+    add_headers(cookie = cookie)
+  ) %>%
+    content(as = 'text') %>%
+    fromJSON %>%
+    .$rushing_summary
+
+  nfl_rushing <- rbind(nfl_rushing, temp %>% mutate(season = yr))
+  print(paste0(yr, " done"))
+}
+
+write_csv(nfl_rushing, "~/Documents/Data/pff_nfl_rushing.csv")
+
+# cfb_rushing <- data.frame()
+# for(yr in c(2019:2024)){
+#   url <- paste0("https://premium.pff.com/api/v1/facet/rushing/summary?league=ncaa&season=",yr,"&week=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&division=fbs")
+#   cookie <- '_ga=GA1.1.1911505820.1738795457; _cc_id=e92f48eeba0e07d8e87eab644d497a17; FPID=FPID2.2.G%2BIcad3C23B7hJX10VuozYzV7P4Sd1E1QhUY0yLPhTc%3D.1738795457; FPAU=1.2.99632523.1738795457; _gtmeec=e30%3D; _fbp=fb.1.1738795457233.1851222021; _sharedid=c63e73db-9c8c-4b0c-8a88-ed47db4f4016; _sharedid_cst=zix7LPQsHA%3D%3D; _scid=kmIjKCbf6WGChxutPdny6JL376QLVkYP-MEPJw; _sharedID=46b4f3ac-a782-4d1c-b60f-dafa25005331; _sharedID_cst=zix7LPQsHA%3D%3D; _tt_enable_cookie=1; _ttp=01JP2MRN7YJ1DXZ4XFJQ2DJT59_.tt.1; __gads=ID=ba01d17ca1fbca78:T=1741698135:RT=1741698135:S=ALNI_MZ-KoUO5E0heQ7nNLCyMN4pH2LiYA; __gpi=UID=0000106b7318888c:T=1741698135:RT=1741698135:S=ALNI_MZuuEj1BjVserbw2HwXvZSG1c4ilA; __eoi=ID=29f1c96e82218229:T=1741698135:RT=1741698135:S=AA-AfjYS1JwRpalWQlldEfMK6K99; cto_bundle=O2D7HV8xeHdWRE5kM3d1cHhESjlYTGxSaSUyRjZLaDFKOE5NWkNDc25KZk9UdGlnMDB1R3I5emFwWFlwS05lS1h0eHh0aFJBSDIlMkZuY3ZUQlBXemRlbjA4V2JCQ2E5S01PUjBxNXY5Wm8lMkI0Ym1EODdzcWxEciUyRnhualglMkZBS3lxajF4MXp0RkFqaHBCR1hHVXRrcm1qcnNlbEh0UW5MSEJTNU9xZFdITXpSTzc3U3hsajJQeCUyQmVUYnZNYXFzTVQ3WU9CbFlqWm8; cto_bidid=vwVOPV9iQ2Q4anRwbkpRVm8lMkZIMVZ0aEV4OTM1Qkd0UHRxWE1sZTJqejlrSE1jMmtqdiUyQkJoNnNnOWJXaUdsSyUyQmdZRXhiMGF2ZUdrRGdVNjdobk4zaWZxYlRnN2pCVkdGWmszZGpDNHFNTXZiV1FMJTJCM0x2V1RqZ1JhQ2pJbDZKUUZUJTJGNTU3Mm1RSnBqUmR4djBKSFpHZE1JJTJCNUElM0QlM0Q; _ScCbts=%5B%22243%3Bchrome.2%3A2%3A5%22%2C%22300%3Bchrome.2%3A2%3A5%22%5D; _sctr=1%7C1743742800000; external_id=ddbc98a6-23ce-4491-a37a-c526f1ab53b0; c_groot_access_token=fnwKiUET2GWFCiwdYzltgm4pyOeZcsXzzTqeD_FUNWg_Pz5pmKmDWCAvm0fhn32z; c_groot_access_ts=2025-04-05T16:32:32Z; c_groot_refresh_token=c4JaZ6Wqe8GJ_Bogbo-El8ZH_-HIUTzAylsQBmRKbumH_N_l5axf0ZJ2lu1RxS4N; FPLC=dA%2FlcCMx1O9Q%2FADCqe7qKe%2Bu46PgHdt14sDHEtFKwc2Gv0KnlYOQypx1tIq6PeWYpTv7ct%2F3rKz7UXGroUxtEP5ocD8WuVYwPIzaBR0ry7Ki3rMtoSpGsMXxfwB%2FrQ%3D%3D; _hp2_ses_props.2100373990=%7B%22ts%22%3A1743870753166%2C%22d%22%3A%22www.pff.com%22%2C%22h%22%3A%22%2F%22%7D; _premium_key=SFMyNTY.g3QAAAABbQAAABZndWFyZGlhbl9kZWZhdWx0X3Rva2VubQAAAlhleUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGRXUWlPaUpRY21WdGFYVnRJaXdpWlhod0lqb3hOelF6T0RjeU5UVTJMQ0pwWVhRaU9qRTNORE00TnpBM05UWXNJbWx6Y3lJNklsQnlaVzFwZFcwaUxDSnFkR2tpT2lKa1ptWTNZamt6TVMwMFpqSm1MVFExTXpRdFlUZGtZeTFsTW1JNE1qRmxOVFJtWWpBaUxDSnVZbVlpT2pFM05ETTROekEzTlRVc0luQmxiU0k2ZXlKaFlXWWlPakVzSW01allXRWlPakVzSW01bWJDSTZNU3dpZFdac0lqb3hmU3dpYzNWaUlqb2llMXdpWlcxaGFXeGNJanBjSW1KbmNtVjBZMmhBWjIxaGFXd3VZMjl0WENJc1hDSm1aV0YwZFhKbGMxd2lPbHRkTEZ3aVptbHljM1JmYm1GdFpWd2lPbTUxYkd3c1hDSnNZWE4wWDI1aGJXVmNJanB1ZFd4c0xGd2lkV2xrWENJNlhDSXhNVGt4WTJZMU9TMWhPV0kwTFRSaU9ESXRPVGswTWkwd1lUVTVPR00zT0RVNVpqVmNJaXhjSW5abGNuUnBZMkZzWENJNlhDSkRiMjV6ZFcxbGNsd2lmU0lzSW5SNWNDSTZJbUZqWTJWemN5SjkudFZfdUJjbHBKc0hoRFJRY0E2M19ZbHdsalhGbFVXYUwzd2liMFhpWGVSY051aFgwb3hsQlZCMHN4V2R3c1hHSjhjTldKOEQ0V1BOZWlOMDlLX1pSQ3c.nRlrq4RWVI4ZnihReaGPycGDomEqEiu1VPq_Y-maLSc; _scid_r=oWIjKCbf6WGChxutPdny6JL376QLVkYP-MEPNQ; _ga_123456789=GS1.1.1743870753.8.1.1743871246.0.0.1612436663; _hp2_id.2100373990=%7B%22userId%22%3A%226993897955886911%22%2C%22pageviewId%22%3A%226090564085619631%22%2C%22sessionId%22%3A%22512212428183117%22%2C%22identity%22%3A%221191cf59-a9b4-4b82-9942-0a598c7859f5%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%7D'
+#   
+#   temp <- GET(
+#     url,
+#     add_headers(cookie = cookie)
+#   ) %>%
+#     content(as = 'text') %>%
+#     fromJSON %>%
+#     .$rushing_summary
+#   
+#   cfb_rushing <- rbind(cfb_rushing, temp %>% mutate(season = yr))  
+#   print(paste0(yr, " done"))
+# }
+# 
+# write_csv(cfb_rushing, "~/Documents/Data/pff_cfb_rushing.csv")
