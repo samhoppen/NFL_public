@@ -217,6 +217,8 @@ John York,49ers,Co-Owner,Owner,2023,0
 Jed York,49ers,Owner/CEO,Owner,2023,0
 John Lynch,49ers,General Manager,General Manager,2024,1
 Jed York,49ers,Owner/CEO,Owner,2024,0
+John Lynch,49ers,General Manager,General Manager,2025,1
+Jed York,49ers,Owner/CEO,Owner,2025,0
 George Halas,Bears,Principal Owner/Head Coach/General Manager,Owner/General Manager,1936,1
 George Halas,Bears,Principal Owner/Head Coach/General Manager,Owner/General Manager,1937,1
 George Halas,Bears,Principal Owner/Head Coach/General Manager,Owner/General Manager,1938,1
@@ -377,6 +379,8 @@ Virginia Halas McCaskey,Bears,Secretary of the Board of Directors,General Execut
 Ryan Poles,Bears,General Manager,General Manager,2023,1
 Virginia Halas McCaskey,Bears,Secretary of the Board of Directors,General Executive,2024,0
 Ryan Poles,Bears,General Manager,General Manager,2024,1
+George McCaskey,Bears,Secretary of the Board of Directors,General Executive,2025,0
+Ryan Poles,Bears,General Manager,General Manager,2025,1
 Paul Brown,Bengals,Owner/General Manager,Owner/General Manager,1968,1
 Paul Brown,Bengals,Owner/General Manager,Owner/General Manager,1969,1
 Paul Brown,Bengals,Owner/General Manager,Owner/General Manager,1970,1
@@ -465,6 +469,8 @@ Duke Tobin,Bengals,Director of Player Personnel,Director,2023,1
 Mike Brown,Bengals,Owner/General Manager,Owner/General Manager,2023,0
 Duke Tobin,Bengals,Director of Player Personnel,Director,2024,1
 Mike Brown,Bengals,Owner/General Manager,Owner/General Manager,2024,0
+Duke Tobin,Bengals,Director of Player Personnel,Director,2025,1
+Mike Brown,Bengals,Owner/General Manager,Owner/General Manager,2025,0
 James Breuil,Bills,Principal Owner,Owner,1946,0
 Sam Cordovano,Bills,VP/General Manager/Head Coach,VP/General Manager,1946,1
 Carl Owen,Bills,General Manager,General Manager,1947,1
@@ -614,6 +620,9 @@ Terry Pegula,Bills,Owner,Owner,2023,0
 Brandon Beane,Bills,General Manager,General Manager,2024,1
 Kim Pegula,Bills,Owner,Owner,2024,0
 Terry Pegula,Bills,Owner,Owner,2024,0
+Brandon Beane,Bills,General Manager,General Manager,2025,1
+Kim Pegula,Bills,Owner,Owner,2025,0
+Terry Pegula,Bills,Owner,Owner,2025,0
 Dean Griffing,Broncos,General Manager,General Manager,1960,1
 Robert Howsam,Broncos,Owner/President,Owner,1960,0
 Dean Griffing,Broncos,General Manager,General Manager,1961,1
@@ -765,6 +774,8 @@ George Paton,Broncos,General Manager,General Manager,2023,1
 Greg Penner,Broncos,Owner/CEO,Owner,2023,0
 George Paton,Broncos,General Manager,General Manager,2024,1
 Greg Penner,Broncos,Owner/CEO,Owner,2024,0
+George Paton,Broncos,General Manager,General Manager,2025,1
+Greg Penner,Broncos,Owner/CEO,Owner,2025,0
 Paul Brown,Browns,Head Coach/General Manager,Head Coach/General Manager,1946,1
 Arthur McBride,Browns,Principal Owner,Owner,1946,0
 Paul Brown,Browns,Head Coach/General Manager,Head Coach/General Manager,1947,1
@@ -938,6 +949,9 @@ Andrew Berry,Browns,General Manager/Executive VP of Football Operations,VP/Gener
 Dee Haslam,Browns,Principal Owner,Owner,2024,0
 Jimmy Haslam III,Browns,Principal Owner,Owner,2024,0
 Andrew Berry,Browns,General Manager/Executive VP of Football Operations,VP/General Manager,2024,1
+Dee Haslam,Browns,Principal Owner,Owner,2025,0
+Jimmy Haslam III,Browns,Principal Owner,Owner,2025,0
+Andrew Berry,Browns,General Manager/Executive VP of Football Operations,VP/General Manager,2025,1
 John McKay,Buccaneers,Head Coach/de facto General Manager,Head Coach/General Manager,1976,1
 Hugh Culverhouse,Buccaneers,Owner/President,Owner,1976,0
 John McKay,Buccaneers,Head Coach/de facto General Manager,Head Coach/General Manager,1977,1
@@ -1039,6 +1053,8 @@ Jason Licht,Buccaneers,General Manager,General Manager,2023,1
 Bryan Glazer,Buccaneers,Co-Chairman/Owner,Owner,2023,0
 Jason Licht,Buccaneers,General Manager,General Manager,2024,1
 Bryan Glazer,Buccaneers,Co-Chairman/Owner,Owner,2024,0
+Jason Licht,Buccaneers,General Manager,General Manager,2025,1
+Bryan Glazer,Buccaneers,Co-Chairman/Owner,Owner,2025,0
 Arch Wolfe,Cardinals,General Manager,General Manager,1936,1
 Charles Bidwill,Cardinals,Principal Owner,Owner,1936,0
 Arch Wolfe,Cardinals,General Manager,General Manager,1937,1
@@ -1220,6 +1236,8 @@ Monti Ossenfort,Cardinals,General Manager,General Manager,2023,1
 Michael Bidwill,Cardinals,Principal Owner,Owner,2023,0
 Monti Ossenfort,Cardinals,General Manager,General Manager,2024,1
 Michael Bidwill,Cardinals,Principal Owner,Owner,2024,0
+Monti Ossenfort,Cardinals,General Manager,General Manager,2025,1
+Michael Bidwill,Cardinals,Principal Owner,Owner,2025,0
 Frank Leahy,Chargers,General Manager,General Manager,1960,1
 Barron Hilton,Chargers,Principal Owner,Owner,1960,0
 Sid Gillman,Chargers,Head Coach/General Manager,Head Coach/General Manager,1961,1
@@ -1364,6 +1382,8 @@ JoJo Wooden,Chargers,Interim General Manager,Interim General Manager,2023,0
 Dean Spanos,Chargers,Owner/President,Owner,2023,0
 Joe Hortiz,Chargers,General Manager,General Manager,2024,1
 Dean Spanos,Chargers,Owner/President,Owner,2024,0
+Joe Hortiz,Chargers,General Manager,General Manager,2025,1
+Dean Spanos,Chargers,Owner/President,Owner,2025,0
 Don Rossi,Chiefs,General Manager,General Manager,1960,1
 Lamar Hunt,Chiefs,Founder/Principal Owner,Owner,1960,0
 Jack Steadman,Chiefs,General Manager,General Manager,1961,1
@@ -1494,6 +1514,8 @@ Clark Hunt,Chiefs,Chairman/CEO,General Executive,2023,0
 Brett Veach,Chiefs,General Manager,General Manager,2023,1
 Clark Hunt,Chiefs,Chairman/CEO,General Executive,2024,0
 Brett Veach,Chiefs,General Manager,General Manager,2024,1
+Clark Hunt,Chiefs,Chairman/CEO,General Executive,2025,0
+Brett Veach,Chiefs,General Manager,General Manager,2025,1
 Walt Driskill,Colts,President/Head Coach/General Manager,Head Coach/General Manager,1948,1
 Walt Driskill,Colts,President/General Manager,President/General Manager,1949,1
 Carroll Rosenbloom,Colts,Owner,Owner,1953,0
@@ -1643,6 +1665,8 @@ Chris Ballard,Colts,General Manager,General Manager,2023,1
 Jim Irsay,Colts,Owner/CEO,Owner,2023,0
 Chris Ballard,Colts,General Manager,General Manager,2024,1
 Jim Irsay,Colts,Owner/CEO,Owner,2024,0
+Chris Ballard,Colts,General Manager,General Manager,2025,1
+Jim Irsay,Colts,Owner/CEO,Owner,2025,0
 Jack Espey,Commanders,General Manager,General Manager,1936,1
 George Preston Marshall,Commanders,Owner/President,Owner,1936,0
 Jack Espey,Commanders,General Manager,General Manager,1937,1
@@ -1840,6 +1864,8 @@ Martin Mayhew,Commanders,General Manager,General Manager,2023,1
 Josh Harris,Commanders,Principal Owner,Owner,2023,0
 Adam Peters,Commanders,General Manager,General Manager,2024,1
 Josh Harris,Commanders,Principal Owner,Owner,2024,0
+Adam Peters,Commanders,General Manager,General Manager,2025,1
+Josh Harris,Commanders,Principal Owner,Owner,2025,0
 Clint Murchison Jr.,Cowboys,Principal Owner,Owner,1960,0
 Tex Schramm,Cowboys,President/General Manager,President/General Manager,1960,1
 Clint Murchison Jr.,Cowboys,Principal Owner,Owner,1961,0
@@ -1939,6 +1965,7 @@ Jerry Jones,Cowboys,Owner/President/General Manager,Owner/General Manager,2021,1
 Jerry Jones,Cowboys,Owner/President/General Manager,Owner/General Manager,2022,1
 Jerry Jones,Cowboys,Owner/President/General Manager,Owner/General Manager,2023,1
 Jerry Jones,Cowboys,Owner/President/General Manager,Owner/General Manager,2024,1
+Jerry Jones,Cowboys,Owner/President/General Manager,Owner/General Manager,2025,1
 Dennis Shea,Dodgers,General Manager,General Manager,1942,1
 Dennis Shea,Dodgers,General Manager,General Manager,1943,1
 Chuck Burr,Dolphins,General Manager,General Manager,1966,1
@@ -2084,6 +2111,8 @@ Stephen Ross,Dolphins,Chairman/Managing General Partner,General Executive,2023,0
 Chris Grier,Dolphins,General Manager,General Manager,2023,1
 Stephen Ross,Dolphins,Chairman/Managing General Partner,General Executive,2024,0
 Chris Grier,Dolphins,General Manager,General Manager,2024,1
+Stephen Ross,Dolphins,Chairman/Managing General Partner,General Executive,2025,0
+Chris Grier,Dolphins,General Manager,General Manager,2025,1
 Edward Madigan,Dons,General Manager,General Manager,1946,1
 Harry Thayer,Dons,General Manager,General Manager,1947,1
 Harry Thayer,Dons,General Manager,General Manager,1948,1
@@ -2270,6 +2299,8 @@ Jeffrey Lurie,Eagles,Chairman/CEO,General Executive,2023,0
 Howie Roseman,Eagles,Exec. VP of Football Ops/General Manager,VP/General Manager,2023,1
 Jeffrey Lurie,Eagles,Chairman/CEO,General Executive,2024,0
 Howie Roseman,Eagles,Exec. VP of Football Ops/General Manager,VP/General Manager,2024,1
+Jeffrey Lurie,Eagles,Chairman/CEO,General Executive,2025,0
+Howie Roseman,Eagles,Exec. VP of Football Ops/General Manager,VP/General Manager,2025,1
 Frank Wall,Falcons,General Manager,General Manager,1966,1
 Rankin Smith,Falcons,Principal Owner,Owner,1966,0
 Frank Wall,Falcons,General Manager,General Manager,1967,1
@@ -2392,6 +2423,8 @@ Terry Fontenot,Falcons,General Manager,General Manager,2023,1
 Arthur Blank,Falcons,Principal Owner,Owner,2023,0
 Terry Fontenot,Falcons,General Manager,General Manager,2024,1
 Arthur Blank,Falcons,Principal Owner,Owner,2024,0
+Terry Fontenot,Falcons,General Manager,General Manager,2025,1
+Arthur Blank,Falcons,Principal Owner,Owner,2025,0
 Tim Mara,Giants,Founder/Principal Owner,Owner,1925,1
 Tim Mara,Giants,Founder/Principal Owner,Owner,1926,1
 Tim Mara,Giants,Founder/Principal Owner,Owner,1927,1
@@ -2636,6 +2669,9 @@ John Mara,Giants,President/Co-Owner,President,2023,0
 Joe Schoen,Giants,General Manager,General Manager,2024,1
 Steve Tisch,Giants,Executive Vice President/Co-Owner,Owner/VP,2024,0
 John Mara,Giants,President/Co-Owner,President,2024,0
+Joe Schoen,Giants,General Manager,General Manager,2025,1
+Steve Tisch,Giants,Executive Vice President/Co-Owner,Owner/VP,2025,0
+John Mara,Giants,President/Co-Owner,President,2025,0
 Tom Coughlin,Jaguars,Head Coach/de facto General Manager,Head Coach/General Manager,1995,1
 Wayne Weaver,Jaguars,Principal Owner,Owner,1995,0
 Michael Huyghue,Jaguars,VP of Football Operations,VP,1995,0
@@ -2703,6 +2739,8 @@ Trent Baalke,Jaguars,General Manager,General Manager,2023,1
 Shahid Khan,Jaguars,Principal Owner,Owner,2023,0
 Trent Baalke,Jaguars,General Manager,General Manager,2024,1
 Shahid Khan,Jaguars,Principal Owner,Owner,2024,0
+James Gladstone,Jaguars,General Manager,General Manager,2025,1
+Shahid Khan,Jaguars,Principal Owner,Owner,2025,0
 Steve Sebo,Jets,General Manager,General Manager,1960,1
 Steve Sebo,Jets,General Manager,General Manager,1961,1
 George Sauer Sr.,Jets,General Manager,General Manager,1962,1
@@ -2851,6 +2889,8 @@ Woody Johnson,Jets,Chairman/CEO,General Executive,2023,0
 Joe Douglas,Jets,General Manager,General Manager,2023,1
 Woody Johnson,Jets,Chairman/CEO,General Executive,2024,0
 Joe Douglas,Jets,General Manager,General Manager,2024,1
+Woody Johnson,Jets,Chairman/CEO,General Executive,2025,0
+Darren Mougey,Jets,General Manager,General Manager,2025,1
 Dutch Clark,Lions,Head Coach/General Manager,Head Coach/General Manager,1936,1
 George Richards,Lions,Majority Owner,Owner,1936,0
 Dutch Clark,Lions,Head Coach/General Manager,Head Coach/General Manager,1937,1
@@ -3036,6 +3076,8 @@ Sheila Ford Hamp,Lions,Principal Owner,Owner,2023,0
 Brad Holmes,Lions,General Manager/Executive VP,VP/General Manager,2023,1
 Sheila Ford Hamp,Lions,Principal Owner,Owner,2024,0
 Brad Holmes,Lions,General Manager/Executive VP,VP/General Manager,2024,1
+Sheila Ford Hamp,Lions,Principal Owner,Owner,2025,0
+Brad Holmes,Lions,General Manager/Executive VP,VP/General Manager,2025,1
 Andrew Turnbull,Packers,President,President,1923,1
 Andrew Turnbull,Packers,President,President,1924,1
 Andrew Turnbull,Packers,President,President,1925,1
@@ -3242,6 +3284,8 @@ Brian Gutekunst,Packers,General Manager,General Manager,2023,1
 Mark Murphy,Packers,President/CEO,President,2023,0
 Brian Gutekunst,Packers,General Manager,General Manager,2024,1
 Mark Murphy,Packers,President/CEO,President,2024,0
+Brian Gutekunst,Packers,General Manager,General Manager,2025,1
+Mark Murphy,Packers,President/CEO,President,2025,0
 Bill Polian,Panthers,General Manager,General Manager,1995,1
 Jerry Richardson,Panthers,Majority Owner,Owner,1995,0
 Mike McCormack,Panthers,President/Interim General Manager,President/General Manager,1995,0
@@ -3313,6 +3357,8 @@ Scott Fitterer,Panthers,General Manager,General Manager,2023,1
 David Tepper,Panthers,Majority Owner,Owner,2023,0
 Dan Morgan,Panthers,General Manager,General Manager,2024,1
 David Tepper,Panthers,Majority Owner,Owner,2024,0
+Dan Morgan,Panthers,General Manager,General Manager,2025,1
+David Tepper,Panthers,Majority Owner,Owner,2025,0
 Ed McKeever,Patriots,General Manager,General Manager,1960,1
 Billy Sullivan,Patriots,Founder/Principal Owner,Owner,1960,0
 Mike Holovak,Patriots,Head Coach/General Manager,Head Coach/General Manager,1961,1
@@ -3458,6 +3504,8 @@ Robert Kraft,Patriots,Chairman/CEO,General Executive,2023,0
 Bill Belichick,Patriots,Head Coach/General Manager,Head Coach/General Manager,2023,1
 Eliot Wolf,Patriots,Director of Scouting/de facto GM,Director/General Manager,2024,1
 Robert Kraft,Patriots,Chairman/CEO,General Executive,2024,0
+Eliot Wolf,Patriots,Director of Scouting/de facto GM,Director/General Manager,2025,1
+Robert Kraft,Patriots,Chairman/CEO,General Executive,2025,0
 Chet Soda,Raiders,Principal Owner/General Manager,Owner/General Manager,1960,1
 Paul Hastings,Raiders,General Manager,General Manager,1961,1
 F. Wayne Valley,Raiders,Owner,Owner,1961,0
@@ -3555,6 +3603,8 @@ Champ Kelly,Raiders,Interim General Manager,Interim General Manager,2023,0
 Mark Davis,Raiders,Owner,Owner,2023,0
 Tom Telesco,Raiders,General Manager,General Manager,2024,1
 Mark Davis,Raiders,Owner,Owner,2024,0
+John Spytek,Raiders,General Manager,General Manager,2025,1
+Mark Davis,Raiders,Owner,Owner,2025,0
 Tom Lipscomb,Rams,President,President,1938,1
 Dutch Clark,Rams,Head Coach/General Manager,Head Coach/General Manager,1939,1
 Tom Lipscomb,Rams,President,President,1939,0
@@ -3747,6 +3797,8 @@ Les Snead,Rams,General Manager,General Manager,2023,1
 Stan Kroenke,Rams,Owner/Chairman,Owner,2023,0
 Les Snead,Rams,General Manager,General Manager,2024,1
 Stan Kroenke,Rams,Owner/Chairman,Owner,2024,0
+Les Snead,Rams,General Manager,General Manager,2025,1
+Stan Kroenke,Rams,Owner/Chairman,Owner,2025,0
 Ozzie Newsome,Ravens,General Manager,General Manager,1996,1
 Art Modell,Ravens,Principal Owner,Owner,1996,0
 Ozzie Newsome,Ravens,General Manager,General Manager,1997,1
@@ -3805,6 +3857,8 @@ Steve Bisciotti,Ravens,Principal Owner,Owner,2023,0
 Eric DeCosta,Ravens,General Manager/Executive VP,VP/General Manager,2023,1
 Steve Bisciotti,Ravens,Principal Owner,Owner,2024,0
 Eric DeCosta,Ravens,General Manager/Executive VP,VP/General Manager,2024,1
+Steve Bisciotti,Ravens,Principal Owner,Owner,2025,0
+Eric DeCosta,Ravens,General Manager/Executive VP,VP/General Manager,2025,1
 Bert Rose,Saints,General Manager,General Manager,1967,1
 John Mecom Jr.,Saints,President/Majority Shareholder,President,1967,0
 Vic Schwenk,Saints,General Manager,General Manager,1968,1
@@ -3919,6 +3973,8 @@ Gayle Benson,Saints,Owner/Chairman of the Board,Owner,2023,0
 Mickey Loomis,Saints,Executive VP/General Manager,VP/General Manager,2023,1
 Gayle Benson,Saints,Owner/Chairman of the Board,Owner,2024,0
 Mickey Loomis,Saints,Executive VP/General Manager,VP/General Manager,2024,1
+Gayle Benson,Saints,Owner/Chairman of the Board,Owner,2025,0
+Mickey Loomis,Saints,Executive VP/General Manager,VP/General Manager,2025,1
 John Thompson,Seahawks,General Manager,General Manager,1976,1
 Lloyd Nordstrom,Seahawks,Principal Owner,Owner,1976,0
 John Thompson,Seahawks,General Manager,General Manager,1977,1
@@ -4034,6 +4090,8 @@ Pete Carroll,Seahawks,Head Coach/VP of Football Ops,Head Coach/Executive,2023,0
 John Schneider,Seahawks,Executive VP/General Manager,VP/General Manager,2023,1
 Jody Allen,Seahawks,Chair,General Executive,2024,0
 John Schneider,Seahawks,Executive VP/General Manager,VP/General Manager,2024,1
+Jody Allen,Seahawks,Chair,General Executive,2025,0
+John Schneider,Seahawks,Executive VP/General Manager,VP/General Manager,2025,1
 Art Rooney,Steelers,Owner,Owner,1936,1
 Art Rooney,Steelers,Owner,Owner,1937,1
 Art Rooney,Steelers,Owner,Owner,1938,1
@@ -4203,6 +4261,8 @@ Omar Khan,Steelers,General Manager,General Manager,2023,1
 Art Rooney II,Steelers,President,President,2023,0
 Omar Khan,Steelers,General Manager,General Manager,2024,1
 Art Rooney II,Steelers,President,President,2024,0
+Omar Khan,Steelers,General Manager,General Manager,2025,1
+Art Rooney II,Steelers,President,President,2025,0
 Charley Casserly,Texans,General Manager,General Manager,2002,1
 Bob McNair,Texans,Owner/CEO,Owner,2002,0
 Charley Casserly,Texans,General Manager,General Manager,2003,1
@@ -4254,6 +4314,8 @@ Janice McNair,Texans,Principal Owner,Owner,2023,0
 Cal McNair,Texans,Owner/CEO,Owner,2023,0
 Nick Caserio,Texans,General Manager,General Manager,2024,1
 Cal McNair,Texans,Owner/CEO,Owner,2024,0
+Nick Caserio,Texans,General Manager,General Manager,2025,1
+Cal McNair,Texans,Owner/CEO,Owner,2025,0
 Harry Wismer,Titans,Founder/Principal Owner,Owner,1960,0
 Bud Adams,Titans,Founder/Owner/Chairman/President/CEO,Owner,1960,0
 Don Suman,Titans,Executive VP/General Manager,VP/General Manager,1960,1
@@ -4388,6 +4450,8 @@ Amy Adams Strunk,Titans,Owner,Owner,2023,0
 Ran Carthon,Titans,Executive VP/General Manager,VP/General Manager,2023,1
 Amy Adams Strunk,Titans,Owner,Owner,2024,0
 Ran Carthon,Titans,Executive VP/General Manager,VP/General Manager,2024,1
+Amy Adams Strunk,Titans,Owner,Owner,2025,0
+Mike Borgonzi,Titans,Executive VP/General Manager,VP/General Manager,2025,1
 Bert Rose,Vikings,General Manager,General Manager,1961,1
 Bill Boyer,Vikings,Co-Owner/President,Owner,1961,0
 Max Winter,Vikings,Owner/President,Owner,1961,0
@@ -4531,6 +4595,7 @@ Kwesi Adofo-Mensah,Vikings,General Manager,General Manager,2023,1
 Zygi Wilf,Vikings,Principal Owner/Chairman,Owner,2023,0
 Kwesi Adofo-Mensah,Vikings,General Manager,General Manager,2024,1
 Zygi Wilf,Vikings,Principal Owner/Chairman,Owner,2024,0
+Kwesi Adofo-Mensah,Vikings,General Manager,General Manager,2025,1
 Joe Carr,NA,League President,Commissioner,1921,0
 Joe Carr,NA,League President,Commissioner,1922,0
 Joe Carr,NA,League President,Commissioner,1923,0
@@ -4598,3 +4663,4 @@ Roger Goodell,NA,Commissioner,Commissioner,2021,0
 Roger Goodell,NA,Commissioner,Commissioner,2022,0
 Roger Goodell,NA,Commissioner,Commissioner,2023,0
 Roger Goodell,NA,Commissioner,Commissioner,2024,0
+Roger Goodell,NA,Commissioner,Commissioner,2025,0
