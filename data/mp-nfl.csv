@@ -1,0 +1,33 @@
+Rank,Team,Rating,Rating_Last,Rank_Last,Change,QB used
+1,BAL,6.38,10.85,1,0,Jackson
+2,PHI,4.81,7.64,4,2,Hurts
+3,SF,4.65,-3.53,22,19,Purdy
+4,DET,4.61,8.63,2,-2,Goff
+5,BUF,4.09,7.76,3,-2,Allen
+6,KC,3.79,7.04,5,-1,Mahomes
+7,GB,3.07,5.69,6,-1,Love
+8,MIA,2.32,1.07,15,7,Tagovailoa
+9,DEN,1.60,2.28,12,3,Nix
+10,CIN,1.12,2.74,11,1,Burrow
+11,TB,1.05,4.65,7,-4,Mayfield
+12,WAS,0.90,1.21,14,2,Daniels
+13,SEA,0.74,0.51,17,4,Darnold
+14,LAC,0.37,3.88,9,-5,Herbert
+15,DAL,0.27,-7.05,30,15,Prescott
+16,LAR,0.08,2.77,10,-6,Stafford
+17,ARI,-0.35,1.70,13,-4,Murray
+18,MIN,-0.46,4.07,8,-10,McCarthy
+19,ATL,-0.92,-1.80,20,1,Penix Jr.
+20,HOU,-0.93,-1.63,19,-1,Stroud
+21,PIT,-1.13,1.00,16,-5,Rodgers
+22,JAC,-1.65,-5.18,25,3,Lawrence
+23,LV,-1.70,-3.59,23,0,Smith
+24,NE,-2.49,-5.26,26,2,Maye
+25,IND,-2.53,-3.14,21,-4,Jones
+26,CHI,-2.65,-3.98,24,-2,Williams
+27,NYG,-2.68,-8.16,31,4,Wilson
+28,NYJ,-2.95,-0.84,18,-10,Fields
+29,CLE,-3.91,-9.83,32,3,Flacco
+30,TEN,-4.72,-5.99,27,-3,Ward
+31,NO,-4.79,-6.82,29,-2,Rattler
+32,CAR,-6.00,-6.72,28,-4,Young
