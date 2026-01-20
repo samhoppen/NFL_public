@@ -1817,6 +1817,8 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,BUF,2025_16_BUF_CLE,Joe Brady,Sean McDermott,Sean McDermott
 2025,17,BUF,2025_17_PHI_BUF,Joe Brady,Sean McDermott,Sean McDermott
 2025,18,BUF,2025_18_NYJ_BUF,Joe Brady,Sean McDermott,Sean McDermott
+2025,19,BUF,2025_19_BUF_JAX,Joe Brady,Sean McDermott,Sean McDermott
+2025,20,BUF,2025_20_BUF_DEN,Joe Brady,Sean McDermott,Sean McDermott
 1999,1,CAR,1999_01_CAR_NO,George Seifert,John Marshall,George Seifert
 1999,2,CAR,1999_02_JAX_CAR,George Seifert,John Marshall,George Seifert
 1999,3,CAR,1999_03_CIN_CAR,George Seifert,John Marshall,George Seifert
@@ -2269,6 +2271,7 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,CAR,2025_16_TB_CAR,Dave Canales,Ejiro Evero,Dave Canales
 2025,17,CAR,2025_17_SEA_CAR,Dave Canales,Ejiro Evero,Dave Canales
 2025,18,CAR,2025_18_CAR_TB,Dave Canales,Ejiro Evero,Dave Canales
+2025,19,CAR,2025_19_LA_CAR,Dave Canales,Ejiro Evero,Dave Canales
 1999,1,CHI,1999_01_KC_CHI,Gary Crowton,Greg Blache,Dick Jauron
 1999,2,CHI,1999_02_SEA_CHI,Gary Crowton,Greg Blache,Dick Jauron
 1999,3,CHI,1999_03_CHI_OAK,Gary Crowton,Greg Blache,Dick Jauron
@@ -2715,6 +2718,8 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,CHI,2025_16_GB_CHI,Ben Johnson,Dennis Allen,Ben Johnson
 2025,17,CHI,2025_17_CHI_SF,Ben Johnson,Dennis Allen,Ben Johnson
 2025,18,CHI,2025_18_DET_CHI,Ben Johnson,Dennis Allen,Ben Johnson
+2025,19,CHI,2025_19_GB_CHI,Ben Johnson,Dennis Allen,Ben Johnson
+2025,20,CHI,2025_20_LA_CHI,Ben Johnson,Dennis Allen,Ben Johnson
 1999,1,CIN,1999_01_CIN_TEN,Bruce Coslett,Dick LeBeau,Bruce Coslet
 1999,2,CIN,1999_02_SD_CIN,Bruce Coslett,Dick LeBeau,Bruce Coslet
 1999,3,CIN,1999_03_CIN_CAR,Bruce Coslett,Dick LeBeau,Bruce Coslet
@@ -4511,6 +4516,8 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,DEN,2025_16_JAX_DEN,Sean Payton,Vance Joseph,Sean Payton
 2025,17,DEN,2025_17_DEN_KC,Sean Payton,Vance Joseph,Sean Payton
 2025,18,DEN,2025_18_LAC_DEN,Sean Payton,Vance Joseph,Sean Payton
+2025,20,DEN,2025_20_BUF_DEN,Sean Payton,Vance Joseph,Sean Payton
+2025,21,DEN,2025_21_NE_DEN,Sean Payton,Vance Joseph,Sean Payton
 1999,1,DET,1999_01_DET_SEA,Sylvester Croom,Larry Peccatiello,Bobby Ross
 1999,2,DET,1999_02_GB_DET,Sylvester Croom,Larry Peccatiello,Bobby Ross
 1999,3,DET,1999_03_DET_KC,Sylvester Croom,Larry Peccatiello,Bobby Ross
@@ -4947,15 +4954,15 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,6,DET,2025_06_DET_KC,John Morton,Kelvin Sheppard,Dan Campbell
 2025,7,DET,2025_07_TB_DET,John Morton,Kelvin Sheppard,Dan Campbell
 2025,9,DET,2025_09_MIN_DET,John Morton,Kelvin Sheppard,Dan Campbell
-2025,10,DET,2025_10_DET_WAS,John Morton,Kelvin Sheppard,Dan Campbell
-2025,11,DET,2025_11_DET_PHI,John Morton,Kelvin Sheppard,Dan Campbell
-2025,12,DET,2025_12_NYG_DET,John Morton,Kelvin Sheppard,Dan Campbell
-2025,13,DET,2025_13_GB_DET,John Morton,Kelvin Sheppard,Dan Campbell
-2025,14,DET,2025_14_DAL_DET,John Morton,Kelvin Sheppard,Dan Campbell
-2025,15,DET,2025_15_DET_LA,John Morton,Kelvin Sheppard,Dan Campbell
-2025,16,DET,2025_16_PIT_DET,John Morton,Kelvin Sheppard,Dan Campbell
-2025,17,DET,2025_17_DET_MIN,John Morton,Kelvin Sheppard,Dan Campbell
-2025,18,DET,2025_18_DET_CHI,John Morton,Kelvin Sheppard,Dan Campbell
+2025,10,DET,2025_10_DET_WAS,Dan Campbell,Kelvin Sheppard,Dan Campbell
+2025,11,DET,2025_11_DET_PHI,Dan Campbell,Kelvin Sheppard,Dan Campbell
+2025,12,DET,2025_12_NYG_DET,Dan Campbell,Kelvin Sheppard,Dan Campbell
+2025,13,DET,2025_13_GB_DET,Dan Campbell,Kelvin Sheppard,Dan Campbell
+2025,14,DET,2025_14_DAL_DET,Dan Campbell,Kelvin Sheppard,Dan Campbell
+2025,15,DET,2025_15_DET_LA,Dan Campbell,Kelvin Sheppard,Dan Campbell
+2025,16,DET,2025_16_PIT_DET,Dan Campbell,Kelvin Sheppard,Dan Campbell
+2025,17,DET,2025_17_DET_MIN,Dan Campbell,Kelvin Sheppard,Dan Campbell
+2025,18,DET,2025_18_DET_CHI,Dan Campbell,Kelvin Sheppard,Dan Campbell
 1999,1,GB,1999_01_OAK_GB,Sherman Lewis,Emmitt Thomas,Ray Rhodes
 1999,2,GB,1999_02_GB_DET,Sherman Lewis,Emmitt Thomas,Ray Rhodes
 1999,3,GB,1999_03_MIN_GB,Sherman Lewis,Emmitt Thomas,Ray Rhodes
@@ -5425,6 +5432,7 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,GB,2025_16_GB_CHI,Matt LaFleur,Jeff Hafley,Matt LaFleur
 2025,17,GB,2025_17_BAL_GB,Matt LaFleur,Jeff Hafley,Matt LaFleur
 2025,18,GB,2025_18_GB_MIN,Matt LaFleur,Jeff Hafley,Matt LaFleur
+2025,19,GB,2025_19_GB_CHI,Matt LaFleur,Jeff Hafley,Matt LaFleur
 2002,1,HOU,2002_01_DAL_HOU,Chris Palmer,Vic Fangio,Dom Capers
 2002,2,HOU,2002_02_HOU_SD,Chris Palmer,Vic Fangio,Dom Capers
 2002,3,HOU,2002_03_IND_HOU,Chris Palmer,Vic Fangio,Dom Capers
@@ -5828,6 +5836,8 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,HOU,2025_16_LV_HOU,Nick Caley,Matt Burke,DeMeco Ryans
 2025,17,HOU,2025_17_HOU_LAC,Nick Caley,Matt Burke,DeMeco Ryans
 2025,18,HOU,2025_18_IND_HOU,Nick Caley,Matt Burke,DeMeco Ryans
+2025,19,HOU,2025_19_HOU_PIT,Nick Caley,Matt Burke,DeMeco Ryans
+2025,20,HOU,2025_20_HOU_NE,Nick Caley,Matt Burke,DeMeco Ryans
 1999,1,IND,1999_01_BUF_IND,Tom Moore,Vic Fangio,Jim Mora
 1999,2,IND,1999_02_IND_NE,Tom Moore,Vic Fangio,Jim Mora
 1999,3,IND,1999_03_IND_SD,Tom Moore,Vic Fangio,Jim Mora
@@ -6740,6 +6750,7 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,JAX,2025_16_JAX_DEN,Liam Coen,Anthony Campanile,Liam Coen
 2025,17,JAX,2025_17_JAX_IND,Liam Coen,Anthony Campanile,Liam Coen
 2025,18,JAX,2025_18_TEN_JAX,Liam Coen,Anthony Campanile,Liam Coen
+2025,19,JAX,2025_19_BUF_JAX,Liam Coen,Anthony Campanile,Liam Coen
 1999,1,KC,1999_01_KC_CHI,Jimmy Raye,Kurt Schottenheimer,Gunther Cunningham
 1999,2,KC,1999_02_DEN_KC,Jimmy Raye,Kurt Schottenheimer,Gunther Cunningham
 1999,3,KC,1999_03_DET_KC,Jimmy Raye,Kurt Schottenheimer,Gunther Cunningham
@@ -7661,11 +7672,14 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,11,LA,2025_11_SEA_LA,Sean McVay,Chris Shula,Sean McVay
 2025,12,LA,2025_12_TB_LA,Sean McVay,Chris Shula,Sean McVay
 2025,13,LA,2025_13_LA_CAR,Sean McVay,Chris Shula,Sean McVay
-2025,14,LA,2025_14_LA_ARI,Sean McVay,Chris Shula,Sean McVay
+2025,14,LA,2025_14_LA_ARI,Mike LaFleur,Chris Shula,Sean McVay
 2025,15,LA,2025_15_DET_LA,Sean McVay,Chris Shula,Sean McVay
 2025,16,LA,2025_16_LA_SEA,Sean McVay,Chris Shula,Sean McVay
 2025,17,LA,2025_17_LA_ATL,Sean McVay,Chris Shula,Sean McVay
 2025,18,LA,2025_18_ARI_LA,Sean McVay,Chris Shula,Sean McVay
+2025,19,LA,2025_19_LA_CAR,Sean McVay,Chris Shula,Sean McVay
+2025,20,LA,2025_20_LA_CHI,Sean McVay,Chris Shula,Sean McVay
+2025,21,LA,2025_21_LA_SEA,Sean McVay,Chris Shula,Sean McVay
 1999,2,LAC,1999_02_SD_CIN,Geep Chryst,Joe Pascale,Mike Riley
 1999,3,LAC,1999_03_IND_SD,Geep Chryst,Joe Pascale,Mike Riley
 1999,4,LAC,1999_04_KC_SD,Geep Chryst,Joe Pascale,Mike Riley
@@ -8117,6 +8131,7 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,LAC,2025_16_LAC_DAL,Greg Roman,Jesse Minter,Jim Harbaugh
 2025,17,LAC,2025_17_HOU_LAC,Greg Roman,Jesse Minter,Jim Harbaugh
 2025,18,LAC,2025_18_LAC_DEN,Greg Roman,Jesse Minter,Jim Harbaugh
+2025,19,LAC,2025_19_LAC_NE,Greg Roman,Jesse Minter,Jim Harbaugh
 1999,1,LV,1999_01_OAK_GB,Jon Gruden,Willie Shaw,Jon Gruden
 1999,2,LV,1999_02_OAK_MIN,Jon Gruden,Willie Shaw,Jon Gruden
 1999,3,LV,1999_03_CHI_OAK,Jon Gruden,Willie Shaw,Jon Gruden
@@ -8557,12 +8572,12 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,10,LV,2025_10_LV_DEN,Chip Kelly,Patrick Graham,Pete Carroll
 2025,11,LV,2025_11_DAL_LV,Chip Kelly,Patrick Graham,Pete Carroll
 2025,12,LV,2025_12_CLE_LV,Chip Kelly,Patrick Graham,Pete Carroll
-2025,13,LV,2025_13_LV_LAC,Chip Kelly,Patrick Graham,Pete Carroll
-2025,14,LV,2025_14_DEN_LV,Chip Kelly,Patrick Graham,Pete Carroll
-2025,15,LV,2025_15_LV_PHI,Chip Kelly,Patrick Graham,Pete Carroll
-2025,16,LV,2025_16_LV_HOU,Chip Kelly,Patrick Graham,Pete Carroll
-2025,17,LV,2025_17_NYG_LV,Chip Kelly,Patrick Graham,Pete Carroll
-2025,18,LV,2025_18_KC_LV,Chip Kelly,Patrick Graham,Pete Carroll
+2025,13,LV,2025_13_LV_LAC,Greg Olson,Patrick Graham,Pete Carroll
+2025,14,LV,2025_14_DEN_LV,Greg Olson,Patrick Graham,Pete Carroll
+2025,15,LV,2025_15_LV_PHI,Greg Olson,Patrick Graham,Pete Carroll
+2025,16,LV,2025_16_LV_HOU,Greg Olson,Patrick Graham,Pete Carroll
+2025,17,LV,2025_17_NYG_LV,Greg Olson,Patrick Graham,Pete Carroll
+2025,18,LV,2025_18_KC_LV,Greg Olson,Patrick Graham,Pete Carroll
 1999,1,MIA,1999_01_MIA_DEN,Kippy Brown,George Hill,Jimmy Johnson
 1999,2,MIA,1999_02_ARI_MIA,Kippy Brown,George Hill,Jimmy Johnson
 1999,4,MIA,1999_04_BUF_MIA,Kippy Brown,George Hill,Jimmy Johnson
@@ -9942,6 +9957,9 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,NE,2025_16_NE_BAL,Josh McDaniels,Zac Kuhr,Mike Vrabel
 2025,17,NE,2025_17_NE_NYJ,Josh McDaniels,Zac Kuhr,Mike Vrabel
 2025,18,NE,2025_18_MIA_NE,Josh McDaniels,Zac Kuhr,Mike Vrabel
+2025,19,NE,2025_19_LAC_NE,Josh McDaniels,Zac Kuhr,Mike Vrabel
+2025,20,NE,2025_20_HOU_NE,Josh McDaniels,Zac Kuhr,Mike Vrabel
+2025,21,NE,2025_21_NE_DEN,Josh McDaniels,Zac Kuhr,Mike Vrabel
 1999,1,NO,1999_01_CAR_NO,Danny Abramowicz,Zaven Yaralian,Mike Ditka
 1999,2,NO,1999_02_NO_SF,Danny Abramowicz,Zaven Yaralian,Mike Ditka
 1999,4,NO,1999_04_NO_CHI,Danny Abramowicz,Zaven Yaralian,Mike Ditka
@@ -10846,13 +10864,13 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,8,NYG,2025_08_NYG_PHI,Brian Daboll,Shane Bowen,Brian Daboll
 2025,9,NYG,2025_09_SF_NYG,Brian Daboll,Shane Bowen,Brian Daboll
 2025,10,NYG,2025_10_NYG_CHI,Brian Daboll,Shane Bowen,Brian Daboll
-2025,11,NYG,2025_11_GB_NYG,Brian Daboll,Shane Bowen,Brian Daboll
-2025,12,NYG,2025_12_NYG_DET,Brian Daboll,Shane Bowen,Brian Daboll
-2025,13,NYG,2025_13_NYG_NE,Brian Daboll,Shane Bowen,Brian Daboll
-2025,15,NYG,2025_15_WAS_NYG,Brian Daboll,Shane Bowen,Brian Daboll
-2025,16,NYG,2025_16_MIN_NYG,Brian Daboll,Shane Bowen,Brian Daboll
-2025,17,NYG,2025_17_NYG_LV,Brian Daboll,Shane Bowen,Brian Daboll
-2025,18,NYG,2025_18_DAL_NYG,Brian Daboll,Shane Bowen,Brian Daboll
+2025,11,NYG,2025_11_GB_NYG,Mike Kafka,Shane Bowen,Mike Kafka
+2025,12,NYG,2025_12_NYG_DET,Mike Kafka,Shane Bowen,Mike Kafka
+2025,13,NYG,2025_13_NYG_NE,Mike Kafka,Shane Bowen,Mike Kafka
+2025,15,NYG,2025_15_WAS_NYG,Mike Kafka,Shane Bowen,Mike Kafka
+2025,16,NYG,2025_16_MIN_NYG,Mike Kafka,Shane Bowen,Mike Kafka
+2025,17,NYG,2025_17_NYG_LV,Mike Kafka,Shane Bowen,Mike Kafka
+2025,18,NYG,2025_18_DAL_NYG,Mike Kafka,Shane Bowen,Mike Kafka
 1999,1,NYJ,1999_01_NE_NYJ,Charlie Weis,Bill Belichick,Bill Parcells
 1999,2,NYJ,1999_02_NYJ_BUF,Charlie Weis,Bill Belichick,Bill Parcells
 1999,3,NYJ,1999_03_WAS_NYJ,Charlie Weis,Bill Belichick,Bill Parcells
@@ -11774,6 +11792,7 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,PHI,2025_16_PHI_WAS,Kevin Patullo,Vic Fangio,Nick Sirianni
 2025,17,PHI,2025_17_PHI_BUF,Kevin Patullo,Vic Fangio,Nick Sirianni
 2025,18,PHI,2025_18_WAS_PHI,Kevin Patullo,Vic Fangio,Nick Sirianni
+2025,19,PHI,2025_19_SF_PHI,Kevin Patullo,Vic Fangio,Nick Sirianni
 1999,1,PIT,1999_01_PIT_CLE,Kevin Gilbride,Jim Haslett,Bill Cowher
 1999,2,PIT,1999_02_PIT_BAL,Kevin Gilbride,Jim Haslett,Bill Cowher
 1999,3,PIT,1999_03_SEA_PIT,Kevin Gilbride,Jim Haslett,Bill Cowher
@@ -12240,6 +12259,7 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,PIT,2025_16_PIT_DET,Arthur Smith,Teryl Austin,Mike Tomlin
 2025,17,PIT,2025_17_PIT_CLE,Arthur Smith,Teryl Austin,Mike Tomlin
 2025,18,PIT,2025_18_BAL_PIT,Arthur Smith,Teryl Austin,Mike Tomlin
+2025,19,PIT,2025_19_HOU_PIT,Arthur Smith,Teryl Austin,Mike Tomlin
 1999,1,SEA,1999_01_DET_SEA,Mike Holmgren,Jim Lind,Mike Holmgren
 1999,2,SEA,1999_02_SEA_CHI,Mike Holmgren,Jim Lind,Mike Holmgren
 1999,3,SEA,1999_03_SEA_PIT,Mike Holmgren,Jim Lind,Mike Holmgren
@@ -12706,6 +12726,8 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,SEA,2025_16_LA_SEA,Klint Kubiak,Mike Macdonald,Mike Macdonald
 2025,17,SEA,2025_17_SEA_CAR,Klint Kubiak,Mike Macdonald,Mike Macdonald
 2025,18,SEA,2025_18_SEA_SF,Klint Kubiak,Mike Macdonald,Mike Macdonald
+2025,20,SEA,2025_20_SF_SEA,Klint Kubiak,Mike Macdonald,Mike Macdonald
+2025,21,SEA,2025_21_LA_SEA,Klint Kubiak,Mike Macdonald,Mike Macdonald
 1999,1,SF,1999_01_SF_JAX,Marty Mornhinweg,Jim L. Mora,Steve Mariucci
 1999,2,SF,1999_02_NO_SF,Marty Mornhinweg,Jim L. Mora,Steve Mariucci
 1999,3,SF,1999_03_SF_ARI,Marty Mornhinweg,Jim L. Mora,Steve Mariucci
@@ -13166,6 +13188,8 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,SF,2025_16_SF_IND,Kyle Shanahan,Robert Saleh,Kyle Shanahan
 2025,17,SF,2025_17_CHI_SF,Kyle Shanahan,Robert Saleh,Kyle Shanahan
 2025,18,SF,2025_18_SEA_SF,Kyle Shanahan,Robert Saleh,Kyle Shanahan
+2025,19,SF,2025_19_SF_PHI,Kyle Shanahan,Robert Saleh,Kyle Shanahan
+2025,20,SF,2025_20_SF_SEA,Kyle Shanahan,Robert Saleh,Kyle Shanahan
 1999,1,TB,1999_01_NYG_TB,Mike Shula,Monte Kiffin,Tony Dungy
 1999,2,TB,1999_02_TB_PHI,Mike Shula,Monte Kiffin,Tony Dungy
 1999,3,TB,1999_03_DEN_TB,Mike Shula,Monte Kiffin,Tony Dungy
@@ -14518,10 +14542,10 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,8,WAS,2025_08_WAS_KC,Kliff Kingsbury,Joe Whitt Jr.,Dan Quinn
 2025,9,WAS,2025_09_SEA_WAS,Kliff Kingsbury,Joe Whitt Jr.,Dan Quinn
 2025,10,WAS,2025_10_DET_WAS,Kliff Kingsbury,Joe Whitt Jr.,Dan Quinn
-2025,11,WAS,2025_11_WAS_MIA,Kliff Kingsbury,Joe Whitt Jr.,Dan Quinn
-2025,13,WAS,2025_13_DEN_WAS,Kliff Kingsbury,Joe Whitt Jr.,Dan Quinn
-2025,14,WAS,2025_14_WAS_MIN,Kliff Kingsbury,Joe Whitt Jr.,Dan Quinn
-2025,15,WAS,2025_15_WAS_NYG,Kliff Kingsbury,Joe Whitt Jr.,Dan Quinn
-2025,16,WAS,2025_16_PHI_WAS,Kliff Kingsbury,Joe Whitt Jr.,Dan Quinn
-2025,17,WAS,2025_17_DAL_WAS,Kliff Kingsbury,Joe Whitt Jr.,Dan Quinn
-2025,18,WAS,2025_18_WAS_PHI,Kliff Kingsbury,Joe Whitt Jr.,Dan Quinn
+2025,11,WAS,2025_11_WAS_MIA,Kliff Kingsbury,Dan Quinn,Dan Quinn
+2025,13,WAS,2025_13_DEN_WAS,Kliff Kingsbury,Dan Quinn,Dan Quinn
+2025,14,WAS,2025_14_WAS_MIN,Kliff Kingsbury,Dan Quinn,Dan Quinn
+2025,15,WAS,2025_15_WAS_NYG,Kliff Kingsbury,Dan Quinn,Dan Quinn
+2025,16,WAS,2025_16_PHI_WAS,Kliff Kingsbury,Dan Quinn,Dan Quinn
+2025,17,WAS,2025_17_DAL_WAS,Kliff Kingsbury,Dan Quinn,Dan Quinn
+2025,18,WAS,2025_18_WAS_PHI,Kliff Kingsbury,Dan Quinn,Dan Quinn
