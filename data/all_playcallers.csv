@@ -9960,6 +9960,7 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,19,NE,2025_19_LAC_NE,Josh McDaniels,Zac Kuhr,Mike Vrabel
 2025,20,NE,2025_20_HOU_NE,Josh McDaniels,Zac Kuhr,Mike Vrabel
 2025,21,NE,2025_21_NE_DEN,Josh McDaniels,Zac Kuhr,Mike Vrabel
+2025,22,NE,2025_22_SEA_NE,Josh McDaniels,Zac Kuhr,Mike Vrabel
 1999,1,NO,1999_01_CAR_NO,Danny Abramowicz,Zaven Yaralian,Mike Ditka
 1999,2,NO,1999_02_NO_SF,Danny Abramowicz,Zaven Yaralian,Mike Ditka
 1999,4,NO,1999_04_NO_CHI,Danny Abramowicz,Zaven Yaralian,Mike Ditka
@@ -12728,6 +12729,7 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,18,SEA,2025_18_SEA_SF,Klint Kubiak,Mike Macdonald,Mike Macdonald
 2025,20,SEA,2025_20_SF_SEA,Klint Kubiak,Mike Macdonald,Mike Macdonald
 2025,21,SEA,2025_21_LA_SEA,Klint Kubiak,Mike Macdonald,Mike Macdonald
+2025,22,SEA,2025_22_SEA_NE,Klint Kubiak,Mike Macdonald,Mike Macdonald
 1999,1,SF,1999_01_SF_JAX,Marty Mornhinweg,Jim L. Mora,Steve Mariucci
 1999,2,SF,1999_02_NO_SF,Marty Mornhinweg,Jim L. Mora,Steve Mariucci
 1999,3,SF,1999_03_SF_ARI,Marty Mornhinweg,Jim L. Mora,Steve Mariucci
@@ -14549,3 +14551,35 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2025,16,WAS,2025_16_PHI_WAS,Kliff Kingsbury,Dan Quinn,Dan Quinn
 2025,17,WAS,2025_17_DAL_WAS,Kliff Kingsbury,Dan Quinn,Dan Quinn
 2025,18,WAS,2025_18_WAS_PHI,Kliff Kingsbury,Dan Quinn,Dan Quinn
+2026,1,ARI,,Mike LaFleur,Nick Rallis,Mike LaFleur
+2026,1,ATL,,Tommy Rees,Jeff Ulbirch,Kevin Stefanski
+2026,1,BAL,,Declan Doyle,Jesse Minter,Jesse Minter
+2026,1,BUF,,Joe Brady,Jim Leonhard,Joe Brady
+2026,1,CAR,,Dave Canales,Ejiro Evero,Dave Canales
+2026,1,CHI,,Ben Johnson,Dennis Allen,Ben Johnson
+2026,1,CIN,,Zac Taylor,Al Golden,Zac Taylor
+2026,1,CLE,,Todd Monken,Mike Rutenberg,Todd Monken
+2026,1,DAL,,Brian Schottenheimer,Christian Parker,Brian Schottenheimer
+2026,1,DEN,,Sean Payton,Vance Joseph,Sean Payton
+2026,1,DET,,Drew Petzing,Kelvin Sheppard,Dan Campbell
+2026,1,GB,,Matt LaFleur,Jonathan Gannon,Matt LaFleur
+2026,1,HOU,,Nick Caley,Matt Burke,DeMeco Ryans
+2026,1,IND,,Shane Steichen,Lou Anarumo,Shane Steichen
+2026,1,JAX,,Liam Coen,Anthony Campanile,Liam Coen
+2026,1,KC,,Andy Reid,Steve Spagnuolo,Andy Reid
+2026,1,LA,,Sean McVay,Chris Shula,Sean McVay
+2026,1,LAC,,Mike McDaniel,Chris O'Leary,Jim Harbaugh
+2026,1,LV,,Klint Kubiak,Rob Leonard,Klint Kubiak
+2026,1,MIA,,Bobby Slowik,Jeff Hafley,Jeff Hafley
+2026,1,MIN,,Kevin O'Connell,Brian Flores,Kevin O'Connell
+2026,1,NE,,Josh McDaniels,Zac Kuhr,Mike Vrabel
+2026,1,NO,,Kellen Moore,Brandon Staley,Kellen Moore
+2026,1,NYG,,Matt Nagy,Dennard Wilson,John Harbaugh
+2026,1,NYJ,,Frank Reich,Aaron Glenn,Aaron Glenn
+2026,1,PHI,,Sean Mannion,Vic Fangio,Nick Sirianni
+2026,1,PIT,,Mike McCarthy,Patrick Graham,Mike McCarthy
+2026,1,SEA,,Brian Fleury,Mike Macdonald,Mike Macdonald
+2026,1,SF,,Kyle Shanahan,Raheem Morris,Kyle Shanahan
+2026,1,TB,,Zac Robinson,Todd Bowles,Todd Bowles
+2026,1,TEN,,Brian Daboll,Robert Saleh,Robert Saleh
+2026,1,WAS,,David Blough,Dan Quinn,Dan Quinn
