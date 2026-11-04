@@ -495,22 +495,22 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2000,14,ATL,2000_14_SEA_ATL,George Sefcik,Rich Brooks,Dan Reeves
 2000,16,ATL,2000_16_ATL_NO,George Sefcik,Rich Brooks,Dan Reeves
 2000,17,ATL,2000_17_KC_ATL,George Sefcik,Rich Brooks,Dan Reeves
-2001,1,ATL,2001_01_ATL_SF,George Sefcik,Rich Brooks,Dan Reeves
-2001,2,ATL,2001_02_CAR_ATL,George Sefcik,Rich Brooks,Dan Reeves
-2001,3,ATL,2001_03_ATL_ARI,George Sefcik,Rich Brooks,Dan Reeves
-2001,4,ATL,2001_04_CHI_ATL,George Sefcik,Rich Brooks,Dan Reeves
-2001,5,ATL,2001_05_SF_ATL,George Sefcik,Rich Brooks,Dan Reeves
-2001,6,ATL,2001_06_ATL_NO,George Sefcik,Rich Brooks,Dan Reeves
-2001,8,ATL,2001_08_NE_ATL,George Sefcik,Rich Brooks,Dan Reeves
-2001,9,ATL,2001_09_DAL_ATL,George Sefcik,Rich Brooks,Dan Reeves
-2001,10,ATL,2001_10_ATL_GB,George Sefcik,Rich Brooks,Dan Reeves
-2001,11,ATL,2001_11_ATL_CAR,George Sefcik,Rich Brooks,Dan Reeves
-2001,12,ATL,2001_12_STL_ATL,George Sefcik,Rich Brooks,Dan Reeves
-2001,13,ATL,2001_13_NO_ATL,George Sefcik,Rich Brooks,Dan Reeves
-2001,14,ATL,2001_14_ATL_IND,George Sefcik,Rich Brooks,Dan Reeves
-2001,15,ATL,2001_15_BUF_ATL,George Sefcik,Rich Brooks,Dan Reeves
-2001,16,ATL,2001_16_ATL_MIA,George Sefcik,Rich Brooks,Dan Reeves
-2001,17,ATL,2001_17_ATL_STL,George Sefcik,Rich Brooks,Dan Reeves
+2001,1,ATL,2001_01_ATL_SF,George Sefcik,Don Blackmon,Dan Reeves
+2001,2,ATL,2001_02_CAR_ATL,George Sefcik,Don Blackmon,Dan Reeves
+2001,3,ATL,2001_03_ATL_ARI,George Sefcik,Don Blackmon,Dan Reeves
+2001,4,ATL,2001_04_CHI_ATL,George Sefcik,Don Blackmon,Dan Reeves
+2001,5,ATL,2001_05_SF_ATL,George Sefcik,Don Blackmon,Dan Reeves
+2001,6,ATL,2001_06_ATL_NO,George Sefcik,Don Blackmon,Dan Reeves
+2001,8,ATL,2001_08_NE_ATL,George Sefcik,Don Blackmon,Dan Reeves
+2001,9,ATL,2001_09_DAL_ATL,George Sefcik,Don Blackmon,Dan Reeves
+2001,10,ATL,2001_10_ATL_GB,George Sefcik,Don Blackmon,Dan Reeves
+2001,11,ATL,2001_11_ATL_CAR,George Sefcik,Don Blackmon,Dan Reeves
+2001,12,ATL,2001_12_STL_ATL,George Sefcik,Don Blackmon,Dan Reeves
+2001,13,ATL,2001_13_NO_ATL,George Sefcik,Don Blackmon,Dan Reeves
+2001,14,ATL,2001_14_ATL_IND,George Sefcik,Don Blackmon,Dan Reeves
+2001,15,ATL,2001_15_BUF_ATL,George Sefcik,Don Blackmon,Dan Reeves
+2001,16,ATL,2001_16_ATL_MIA,George Sefcik,Don Blackmon,Dan Reeves
+2001,17,ATL,2001_17_ATL_STL,George Sefcik,Don Blackmon,Dan Reeves
 2002,1,ATL,2002_01_ATL_GB,George Sefcik,Wade Phillips,Dan Reeves
 2002,2,ATL,2002_02_CHI_ATL,George Sefcik,Wade Phillips,Dan Reeves
 2002,3,ATL,2002_03_CIN_ATL,George Sefcik,Wade Phillips,Dan Reeves
@@ -545,56 +545,56 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2003,15,ATL,2003_15_ATL_IND,Pete Mangurian,Wade Phillips,Wade Phillips
 2003,16,ATL,2003_16_ATL_TB,Pete Mangurian,Wade Phillips,Wade Phillips
 2003,17,ATL,2003_17_JAX_ATL,Pete Mangurian,Wade Phillips,Wade Phillips
-2004,1,ATL,2004_01_ATL_SF,Greg Knapp,Ed Donatell,Jim Mora
-2004,2,ATL,2004_02_STL_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2004,3,ATL,2004_03_ARI_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2004,4,ATL,2004_04_ATL_CAR,Greg Knapp,Ed Donatell,Jim Mora
-2004,5,ATL,2004_05_DET_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2004,6,ATL,2004_06_SD_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2004,7,ATL,2004_07_ATL_KC,Greg Knapp,Ed Donatell,Jim Mora
-2004,8,ATL,2004_08_ATL_DEN,Greg Knapp,Ed Donatell,Jim Mora
-2004,10,ATL,2004_10_TB_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2004,11,ATL,2004_11_ATL_NYG,Greg Knapp,Ed Donatell,Jim Mora
-2004,12,ATL,2004_12_NO_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2004,13,ATL,2004_13_ATL_TB,Greg Knapp,Ed Donatell,Jim Mora
-2004,14,ATL,2004_14_OAK_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2004,15,ATL,2004_15_CAR_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2004,16,ATL,2004_16_ATL_NO,Greg Knapp,Ed Donatell,Jim Mora
-2004,17,ATL,2004_17_ATL_SEA,Greg Knapp,Ed Donatell,Jim Mora
-2004,19,ATL,2004_19_STL_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2004,20,ATL,2004_20_ATL_PHI,Greg Knapp,Ed Donatell,Jim Mora
-2005,1,ATL,2005_01_PHI_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2005,2,ATL,2005_02_ATL_SEA,Greg Knapp,Ed Donatell,Jim Mora
-2005,3,ATL,2005_03_ATL_BUF,Greg Knapp,Ed Donatell,Jim Mora
-2005,4,ATL,2005_04_MIN_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2005,5,ATL,2005_05_NE_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2005,6,ATL,2005_06_ATL_NO,Greg Knapp,Ed Donatell,Jim Mora
-2005,7,ATL,2005_07_NYJ_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2005,9,ATL,2005_09_ATL_MIA,Greg Knapp,Ed Donatell,Jim Mora
-2005,10,ATL,2005_10_GB_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2005,11,ATL,2005_11_TB_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2005,12,ATL,2005_12_ATL_DET,Greg Knapp,Ed Donatell,Jim Mora
-2005,13,ATL,2005_13_ATL_CAR,Greg Knapp,Ed Donatell,Jim Mora
-2005,14,ATL,2005_14_NO_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2005,15,ATL,2005_15_ATL_CHI,Greg Knapp,Ed Donatell,Jim Mora
-2005,16,ATL,2005_16_ATL_TB,Greg Knapp,Ed Donatell,Jim Mora
-2005,17,ATL,2005_17_CAR_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2006,1,ATL,2006_01_ATL_CAR,Greg Knapp,Ed Donatell,Jim Mora
-2006,2,ATL,2006_02_TB_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2006,3,ATL,2006_03_ATL_NO,Greg Knapp,Ed Donatell,Jim Mora
-2006,4,ATL,2006_04_ARI_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2006,6,ATL,2006_06_NYG_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2006,7,ATL,2006_07_PIT_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2006,8,ATL,2006_08_ATL_CIN,Greg Knapp,Ed Donatell,Jim Mora
-2006,9,ATL,2006_09_ATL_DET,Greg Knapp,Ed Donatell,Jim Mora
-2006,10,ATL,2006_10_CLE_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2006,11,ATL,2006_11_ATL_BAL,Greg Knapp,Ed Donatell,Jim Mora
-2006,12,ATL,2006_12_NO_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2006,13,ATL,2006_13_ATL_WAS,Greg Knapp,Ed Donatell,Jim Mora
-2006,14,ATL,2006_14_ATL_TB,Greg Knapp,Ed Donatell,Jim Mora
-2006,15,ATL,2006_15_DAL_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2006,16,ATL,2006_16_CAR_ATL,Greg Knapp,Ed Donatell,Jim Mora
-2006,17,ATL,2006_17_ATL_PHI,Greg Knapp,Ed Donatell,Jim Mora
+2004,1,ATL,2004_01_ATL_SF,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,2,ATL,2004_02_STL_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,3,ATL,2004_03_ARI_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,4,ATL,2004_04_ATL_CAR,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,5,ATL,2004_05_DET_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,6,ATL,2004_06_SD_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,7,ATL,2004_07_ATL_KC,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,8,ATL,2004_08_ATL_DEN,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,10,ATL,2004_10_TB_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,11,ATL,2004_11_ATL_NYG,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,12,ATL,2004_12_NO_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,13,ATL,2004_13_ATL_TB,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,14,ATL,2004_14_OAK_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,15,ATL,2004_15_CAR_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,16,ATL,2004_16_ATL_NO,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,17,ATL,2004_17_ATL_SEA,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,19,ATL,2004_19_STL_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2004,20,ATL,2004_20_ATL_PHI,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,1,ATL,2005_01_PHI_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,2,ATL,2005_02_ATL_SEA,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,3,ATL,2005_03_ATL_BUF,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,4,ATL,2005_04_MIN_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,5,ATL,2005_05_NE_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,6,ATL,2005_06_ATL_NO,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,7,ATL,2005_07_NYJ_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,9,ATL,2005_09_ATL_MIA,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,10,ATL,2005_10_GB_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,11,ATL,2005_11_TB_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,12,ATL,2005_12_ATL_DET,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,13,ATL,2005_13_ATL_CAR,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,14,ATL,2005_14_NO_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,15,ATL,2005_15_ATL_CHI,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,16,ATL,2005_16_ATL_TB,Greg Knapp,Ed Donatell,Jim L. Mora
+2005,17,ATL,2005_17_CAR_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,1,ATL,2006_01_ATL_CAR,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,2,ATL,2006_02_TB_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,3,ATL,2006_03_ATL_NO,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,4,ATL,2006_04_ARI_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,6,ATL,2006_06_NYG_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,7,ATL,2006_07_PIT_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,8,ATL,2006_08_ATL_CIN,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,9,ATL,2006_09_ATL_DET,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,10,ATL,2006_10_CLE_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,11,ATL,2006_11_ATL_BAL,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,12,ATL,2006_12_NO_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,13,ATL,2006_13_ATL_WAS,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,14,ATL,2006_14_ATL_TB,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,15,ATL,2006_15_DAL_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,16,ATL,2006_16_CAR_ATL,Greg Knapp,Ed Donatell,Jim L. Mora
+2006,17,ATL,2006_17_ATL_PHI,Greg Knapp,Ed Donatell,Jim L. Mora
 2007,1,ATL,2007_01_ATL_MIN,Bobby Petrino,Mike Zimmer,Bobby Petrino
 2007,2,ATL,2007_02_ATL_JAX,Bobby Petrino,Mike Zimmer,Bobby Petrino
 2007,3,ATL,2007_03_CAR_ATL,Bobby Petrino,Mike Zimmer,Bobby Petrino
@@ -2438,22 +2438,22 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2003,15,CHI,2003_15_MIN_CHI,John Shoop,Greg Blache,Dick Jauron
 2003,16,CHI,2003_16_WAS_CHI,John Shoop,Greg Blache,Dick Jauron
 2003,17,CHI,2003_17_CHI_KC,John Shoop,Greg Blache,Dick Jauron
-2004,1,CHI,2004_01_DET_CHI,Ron Turner,Ron Rivera,Lovie Smith
-2004,2,CHI,2004_02_CHI_GB,Ron Turner,Ron Rivera,Lovie Smith
-2004,3,CHI,2004_03_CHI_MIN,Ron Turner,Ron Rivera,Lovie Smith
-2004,4,CHI,2004_04_PHI_CHI,Ron Turner,Ron Rivera,Lovie Smith
-2004,6,CHI,2004_06_WAS_CHI,Ron Turner,Ron Rivera,Lovie Smith
-2004,7,CHI,2004_07_CHI_TB,Ron Turner,Ron Rivera,Lovie Smith
-2004,8,CHI,2004_08_SF_CHI,Ron Turner,Ron Rivera,Lovie Smith
-2004,9,CHI,2004_09_CHI_NYG,Ron Turner,Ron Rivera,Lovie Smith
-2004,10,CHI,2004_10_CHI_TEN,Ron Turner,Ron Rivera,Lovie Smith
-2004,11,CHI,2004_11_IND_CHI,Ron Turner,Ron Rivera,Lovie Smith
-2004,12,CHI,2004_12_CHI_DAL,Ron Turner,Ron Rivera,Lovie Smith
-2004,13,CHI,2004_13_MIN_CHI,Ron Turner,Ron Rivera,Lovie Smith
-2004,14,CHI,2004_14_CHI_JAX,Ron Turner,Ron Rivera,Lovie Smith
-2004,15,CHI,2004_15_HOU_CHI,Ron Turner,Ron Rivera,Lovie Smith
-2004,16,CHI,2004_16_CHI_DET,Ron Turner,Ron Rivera,Lovie Smith
-2004,17,CHI,2004_17_GB_CHI,Ron Turner,Ron Rivera,Lovie Smith
+2004,1,CHI,2004_01_DET_CHI,Terry Shea,Ron Rivera,Lovie Smith
+2004,2,CHI,2004_02_CHI_GB,Terry Shea,Ron Rivera,Lovie Smith
+2004,3,CHI,2004_03_CHI_MIN,Terry Shea,Ron Rivera,Lovie Smith
+2004,4,CHI,2004_04_PHI_CHI,Terry Shea,Ron Rivera,Lovie Smith
+2004,6,CHI,2004_06_WAS_CHI,Terry Shea,Ron Rivera,Lovie Smith
+2004,7,CHI,2004_07_CHI_TB,Terry Shea,Ron Rivera,Lovie Smith
+2004,8,CHI,2004_08_SF_CHI,Terry Shea,Ron Rivera,Lovie Smith
+2004,9,CHI,2004_09_CHI_NYG,Terry Shea,Ron Rivera,Lovie Smith
+2004,10,CHI,2004_10_CHI_TEN,Terry Shea,Ron Rivera,Lovie Smith
+2004,11,CHI,2004_11_IND_CHI,Terry Shea,Ron Rivera,Lovie Smith
+2004,12,CHI,2004_12_CHI_DAL,Terry Shea,Ron Rivera,Lovie Smith
+2004,13,CHI,2004_13_MIN_CHI,Terry Shea,Ron Rivera,Lovie Smith
+2004,14,CHI,2004_14_CHI_JAX,Terry Shea,Ron Rivera,Lovie Smith
+2004,15,CHI,2004_15_HOU_CHI,Terry Shea,Ron Rivera,Lovie Smith
+2004,16,CHI,2004_16_CHI_DET,Terry Shea,Ron Rivera,Lovie Smith
+2004,17,CHI,2004_17_GB_CHI,Terry Shea,Ron Rivera,Lovie Smith
 2005,1,CHI,2005_01_CHI_WAS,Ron Turner,Ron Rivera,Lovie Smith
 2005,2,CHI,2005_02_DET_CHI,Ron Turner,Ron Rivera,Lovie Smith
 2005,3,CHI,2005_03_CIN_CHI,Ron Turner,Ron Rivera,Lovie Smith
@@ -4216,10 +4216,10 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2026,16,DAL,2026_16_JAX_DAL,Brian Schottenheimer,Christian Parker,Brian Schottenheimer
 2026,17,DAL,2026_17_NYG_DAL,Brian Schottenheimer,Christian Parker,Brian Schottenheimer
 2026,18,DAL,2026_18_DAL_WAS,Brian Schottenheimer,Christian Parker,Brian Schottenheimer
-1999,1,DEN,1999_01_MIA_DEN,Mike Shannahan,Greg Robinson,Mike Shanahan
-1999,2,DEN,1999_02_DEN_KC,Mike Shannahan,Greg Robinson,Mike Shanahan
-1999,3,DEN,1999_03_DEN_TB,Mike Shannahan,Greg Robinson,Mike Shanahan
-1999,4,DEN,1999_04_NYJ_DEN,Mike Shannahan,Greg Robinson,Mike Shanahan
+1999,1,DEN,1999_01_MIA_DEN,Mike Shanahan,Greg Robinson,Mike Shanahan
+1999,2,DEN,1999_02_DEN_KC,Mike Shanahan,Greg Robinson,Mike Shanahan
+1999,3,DEN,1999_03_DEN_TB,Mike Shanahan,Greg Robinson,Mike Shanahan
+1999,4,DEN,1999_04_NYJ_DEN,Mike Shanahan,Greg Robinson,Mike Shanahan
 1999,5,DEN,1999_05_DEN_OAK,Gary Kubiak,Greg Robinson,Mike Shanahan
 1999,6,DEN,1999_06_GB_DEN,Gary Kubiak,Greg Robinson,Mike Shanahan
 1999,7,DEN,1999_07_DEN_NE,Gary Kubiak,Greg Robinson,Mike Shanahan
@@ -5765,22 +5765,22 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2009,15,HOU,2009_15_HOU_STL,Kyle Shanahan,Frank Bush,Gary Kubiak
 2009,16,HOU,2009_16_HOU_MIA,Kyle Shanahan,Frank Bush,Gary Kubiak
 2009,17,HOU,2009_17_NE_HOU,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,1,HOU,2010_01_IND_HOU,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,2,HOU,2010_02_HOU_WAS,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,3,HOU,2010_03_DAL_HOU,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,4,HOU,2010_04_HOU_OAK,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,5,HOU,2010_05_NYG_HOU,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,6,HOU,2010_06_KC_HOU,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,8,HOU,2010_08_HOU_IND,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,9,HOU,2010_09_SD_HOU,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,10,HOU,2010_10_HOU_JAX,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,11,HOU,2010_11_HOU_NYJ,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,12,HOU,2010_12_TEN_HOU,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,13,HOU,2010_13_HOU_PHI,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,14,HOU,2010_14_BAL_HOU,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,15,HOU,2010_15_HOU_TEN,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,16,HOU,2010_16_HOU_DEN,Kyle Shanahan,Frank Bush,Gary Kubiak
-2010,17,HOU,2010_17_JAX_HOU,Kyle Shanahan,Frank Bush,Gary Kubiak
+2010,1,HOU,2010_01_IND_HOU,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,2,HOU,2010_02_HOU_WAS,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,3,HOU,2010_03_DAL_HOU,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,4,HOU,2010_04_HOU_OAK,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,5,HOU,2010_05_NYG_HOU,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,6,HOU,2010_06_KC_HOU,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,8,HOU,2010_08_HOU_IND,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,9,HOU,2010_09_SD_HOU,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,10,HOU,2010_10_HOU_JAX,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,11,HOU,2010_11_HOU_NYJ,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,12,HOU,2010_12_TEN_HOU,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,13,HOU,2010_13_HOU_PHI,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,14,HOU,2010_14_BAL_HOU,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,15,HOU,2010_15_HOU_TEN,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,16,HOU,2010_16_HOU_DEN,Gary Kubiak,Frank Bush,Gary Kubiak
+2010,17,HOU,2010_17_JAX_HOU,Gary Kubiak,Frank Bush,Gary Kubiak
 2011,1,HOU,2011_01_IND_HOU,Gary Kubiak,Wade Phillips,Gary Kubiak
 2011,2,HOU,2011_02_HOU_MIA,Gary Kubiak,Wade Phillips,Gary Kubiak
 2011,3,HOU,2011_03_HOU_NO,Gary Kubiak,Wade Phillips,Gary Kubiak
@@ -6059,56 +6059,56 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2026,16,HOU,2026_16_HOU_PHI,Nick Caley,DeMeco Ryans,DeMeco Ryans
 2026,17,HOU,2026_17_HOU_GB,Nick Caley,DeMeco Ryans,DeMeco Ryans
 2026,18,HOU,2026_18_TEN_HOU,Nick Caley,DeMeco Ryans,DeMeco Ryans
-1999,1,IND,1999_01_BUF_IND,Tom Moore,Vic Fangio,Jim Mora
-1999,2,IND,1999_02_IND_NE,Tom Moore,Vic Fangio,Jim Mora
-1999,3,IND,1999_03_IND_SD,Tom Moore,Vic Fangio,Jim Mora
-1999,5,IND,1999_05_MIA_IND,Tom Moore,Vic Fangio,Jim Mora
-1999,6,IND,1999_06_IND_NYJ,Tom Moore,Vic Fangio,Jim Mora
-1999,7,IND,1999_07_CIN_IND,Tom Moore,Vic Fangio,Jim Mora
-1999,8,IND,1999_08_DAL_IND,Tom Moore,Vic Fangio,Jim Mora
-1999,9,IND,1999_09_KC_IND,Tom Moore,Vic Fangio,Jim Mora
-1999,10,IND,1999_10_IND_NYG,Tom Moore,Vic Fangio,Jim Mora
-1999,11,IND,1999_11_IND_PHI,Tom Moore,Vic Fangio,Jim Mora
-1999,12,IND,1999_12_NYJ_IND,Tom Moore,Vic Fangio,Jim Mora
-1999,13,IND,1999_13_IND_MIA,Tom Moore,Vic Fangio,Jim Mora
-1999,14,IND,1999_14_NE_IND,Tom Moore,Vic Fangio,Jim Mora
-1999,15,IND,1999_15_WAS_IND,Tom Moore,Vic Fangio,Jim Mora
-1999,16,IND,1999_16_IND_CLE,Tom Moore,Vic Fangio,Jim Mora
-1999,17,IND,1999_17_IND_BUF,Tom Moore,Vic Fangio,Jim Mora
-1999,19,IND,1999_19_TEN_IND,Tom Moore,Vic Fangio,Jim Mora
-2000,1,IND,2000_01_IND_KC,Tom Moore,Vic Fangio,Jim Mora
-2000,2,IND,2000_02_OAK_IND,Tom Moore,Vic Fangio,Jim Mora
-2000,4,IND,2000_04_JAX_IND,Tom Moore,Vic Fangio,Jim Mora
-2000,5,IND,2000_05_IND_BUF,Tom Moore,Vic Fangio,Jim Mora
-2000,6,IND,2000_06_IND_NE,Tom Moore,Vic Fangio,Jim Mora
-2000,7,IND,2000_07_IND_SEA,Tom Moore,Vic Fangio,Jim Mora
-2000,8,IND,2000_08_NE_IND,Tom Moore,Vic Fangio,Jim Mora
-2000,9,IND,2000_09_DET_IND,Tom Moore,Vic Fangio,Jim Mora
-2000,10,IND,2000_10_IND_CHI,Tom Moore,Vic Fangio,Jim Mora
-2000,11,IND,2000_11_NYJ_IND,Tom Moore,Vic Fangio,Jim Mora
-2000,12,IND,2000_12_IND_GB,Tom Moore,Vic Fangio,Jim Mora
-2000,13,IND,2000_13_MIA_IND,Tom Moore,Vic Fangio,Jim Mora
-2000,14,IND,2000_14_IND_NYJ,Tom Moore,Vic Fangio,Jim Mora
-2000,15,IND,2000_15_BUF_IND,Tom Moore,Vic Fangio,Jim Mora
-2000,16,IND,2000_16_IND_MIA,Tom Moore,Vic Fangio,Jim Mora
-2000,17,IND,2000_17_MIN_IND,Tom Moore,Vic Fangio,Jim Mora
-2000,18,IND,2000_18_IND_MIA,Tom Moore,Vic Fangio,Jim Mora
-2001,1,IND,2001_01_IND_NYJ,Tom Moore,Vic Fangio,Jim Mora
-2001,2,IND,2001_02_BUF_IND,Tom Moore,Vic Fangio,Jim Mora
-2001,3,IND,2001_03_IND_NE,Tom Moore,Vic Fangio,Jim Mora
-2001,5,IND,2001_05_OAK_IND,Tom Moore,Vic Fangio,Jim Mora
-2001,6,IND,2001_06_NE_IND,Tom Moore,Vic Fangio,Jim Mora
-2001,7,IND,2001_07_IND_KC,Tom Moore,Vic Fangio,Jim Mora
-2001,8,IND,2001_08_IND_BUF,Tom Moore,Vic Fangio,Jim Mora
-2001,9,IND,2001_09_MIA_IND,Tom Moore,Vic Fangio,Jim Mora
-2001,10,IND,2001_10_IND_NO,Tom Moore,Vic Fangio,Jim Mora
-2001,11,IND,2001_11_SF_IND,Tom Moore,Vic Fangio,Jim Mora
-2001,12,IND,2001_12_IND_BAL,Tom Moore,Vic Fangio,Jim Mora
-2001,13,IND,2001_13_IND_MIA,Tom Moore,Vic Fangio,Jim Mora
-2001,14,IND,2001_14_ATL_IND,Tom Moore,Vic Fangio,Jim Mora
-2001,15,IND,2001_15_NYJ_IND,Tom Moore,Vic Fangio,Jim Mora
-2001,16,IND,2001_16_IND_STL,Tom Moore,Vic Fangio,Jim Mora
-2001,17,IND,2001_17_DEN_IND,Tom Moore,Vic Fangio,Jim Mora
+1999,1,IND,1999_01_BUF_IND,Tom Moore,Vic Fangio,Jim E. Mora
+1999,2,IND,1999_02_IND_NE,Tom Moore,Vic Fangio,Jim E. Mora
+1999,3,IND,1999_03_IND_SD,Tom Moore,Vic Fangio,Jim E. Mora
+1999,5,IND,1999_05_MIA_IND,Tom Moore,Vic Fangio,Jim E. Mora
+1999,6,IND,1999_06_IND_NYJ,Tom Moore,Vic Fangio,Jim E. Mora
+1999,7,IND,1999_07_CIN_IND,Tom Moore,Vic Fangio,Jim E. Mora
+1999,8,IND,1999_08_DAL_IND,Tom Moore,Vic Fangio,Jim E. Mora
+1999,9,IND,1999_09_KC_IND,Tom Moore,Vic Fangio,Jim E. Mora
+1999,10,IND,1999_10_IND_NYG,Tom Moore,Vic Fangio,Jim E. Mora
+1999,11,IND,1999_11_IND_PHI,Tom Moore,Vic Fangio,Jim E. Mora
+1999,12,IND,1999_12_NYJ_IND,Tom Moore,Vic Fangio,Jim E. Mora
+1999,13,IND,1999_13_IND_MIA,Tom Moore,Vic Fangio,Jim E. Mora
+1999,14,IND,1999_14_NE_IND,Tom Moore,Vic Fangio,Jim E. Mora
+1999,15,IND,1999_15_WAS_IND,Tom Moore,Vic Fangio,Jim E. Mora
+1999,16,IND,1999_16_IND_CLE,Tom Moore,Vic Fangio,Jim E. Mora
+1999,17,IND,1999_17_IND_BUF,Tom Moore,Vic Fangio,Jim E. Mora
+1999,19,IND,1999_19_TEN_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2000,1,IND,2000_01_IND_KC,Tom Moore,Vic Fangio,Jim E. Mora
+2000,2,IND,2000_02_OAK_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2000,4,IND,2000_04_JAX_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2000,5,IND,2000_05_IND_BUF,Tom Moore,Vic Fangio,Jim E. Mora
+2000,6,IND,2000_06_IND_NE,Tom Moore,Vic Fangio,Jim E. Mora
+2000,7,IND,2000_07_IND_SEA,Tom Moore,Vic Fangio,Jim E. Mora
+2000,8,IND,2000_08_NE_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2000,9,IND,2000_09_DET_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2000,10,IND,2000_10_IND_CHI,Tom Moore,Vic Fangio,Jim E. Mora
+2000,11,IND,2000_11_NYJ_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2000,12,IND,2000_12_IND_GB,Tom Moore,Vic Fangio,Jim E. Mora
+2000,13,IND,2000_13_MIA_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2000,14,IND,2000_14_IND_NYJ,Tom Moore,Vic Fangio,Jim E. Mora
+2000,15,IND,2000_15_BUF_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2000,16,IND,2000_16_IND_MIA,Tom Moore,Vic Fangio,Jim E. Mora
+2000,17,IND,2000_17_MIN_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2000,18,IND,2000_18_IND_MIA,Tom Moore,Vic Fangio,Jim E. Mora
+2001,1,IND,2001_01_IND_NYJ,Tom Moore,Vic Fangio,Jim E. Mora
+2001,2,IND,2001_02_BUF_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2001,3,IND,2001_03_IND_NE,Tom Moore,Vic Fangio,Jim E. Mora
+2001,5,IND,2001_05_OAK_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2001,6,IND,2001_06_NE_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2001,7,IND,2001_07_IND_KC,Tom Moore,Vic Fangio,Jim E. Mora
+2001,8,IND,2001_08_IND_BUF,Tom Moore,Vic Fangio,Jim E. Mora
+2001,9,IND,2001_09_MIA_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2001,10,IND,2001_10_IND_NO,Tom Moore,Vic Fangio,Jim E. Mora
+2001,11,IND,2001_11_SF_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2001,12,IND,2001_12_IND_BAL,Tom Moore,Vic Fangio,Jim E. Mora
+2001,13,IND,2001_13_IND_MIA,Tom Moore,Vic Fangio,Jim E. Mora
+2001,14,IND,2001_14_ATL_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2001,15,IND,2001_15_NYJ_IND,Tom Moore,Vic Fangio,Jim E. Mora
+2001,16,IND,2001_16_IND_STL,Tom Moore,Vic Fangio,Jim E. Mora
+2001,17,IND,2001_17_DEN_IND,Tom Moore,Vic Fangio,Jim E. Mora
 2002,1,IND,2002_01_IND_JAX,Tom Moore,Ron Meeks,Tony Dungy
 2002,2,IND,2002_02_MIA_IND,Tom Moore,Ron Meeks,Tony Dungy
 2002,3,IND,2002_03_IND_HOU,Tom Moore,Ron Meeks,Tony Dungy
@@ -6786,22 +6786,22 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2013,15,JAX,2013_15_BUF_JAX,Jedd Fisch,Bob Babich,Gus Bradley
 2013,16,JAX,2013_16_TEN_JAX,Jedd Fisch,Bob Babich,Gus Bradley
 2013,17,JAX,2013_17_JAX_IND,Jedd Fisch,Bob Babich,Gus Bradley
-2014,1,JAX,2014_01_JAX_PHI,Greg Olson,Bob Babich,Gus Bradley
-2014,2,JAX,2014_02_JAX_WAS,Greg Olson,Bob Babich,Gus Bradley
-2014,3,JAX,2014_03_IND_JAX,Greg Olson,Bob Babich,Gus Bradley
-2014,4,JAX,2014_04_JAX_SD,Greg Olson,Bob Babich,Gus Bradley
-2014,5,JAX,2014_05_PIT_JAX,Greg Olson,Bob Babich,Gus Bradley
-2014,6,JAX,2014_06_JAX_TEN,Greg Olson,Bob Babich,Gus Bradley
-2014,7,JAX,2014_07_CLE_JAX,Greg Olson,Bob Babich,Gus Bradley
-2014,8,JAX,2014_08_MIA_JAX,Greg Olson,Bob Babich,Gus Bradley
-2014,9,JAX,2014_09_JAX_CIN,Greg Olson,Bob Babich,Gus Bradley
-2014,10,JAX,2014_10_DAL_JAX,Greg Olson,Bob Babich,Gus Bradley
-2014,12,JAX,2014_12_JAX_IND,Greg Olson,Bob Babich,Gus Bradley
-2014,13,JAX,2014_13_NYG_JAX,Greg Olson,Bob Babich,Gus Bradley
-2014,14,JAX,2014_14_HOU_JAX,Greg Olson,Bob Babich,Gus Bradley
-2014,15,JAX,2014_15_JAX_BAL,Greg Olson,Bob Babich,Gus Bradley
-2014,16,JAX,2014_16_TEN_JAX,Greg Olson,Bob Babich,Gus Bradley
-2014,17,JAX,2014_17_JAX_HOU,Greg Olson,Bob Babich,Gus Bradley
+2014,1,JAX,2014_01_JAX_PHI,Jedd Fisch,Bob Babich,Gus Bradley
+2014,2,JAX,2014_02_JAX_WAS,Jedd Fisch,Bob Babich,Gus Bradley
+2014,3,JAX,2014_03_IND_JAX,Jedd Fisch,Bob Babich,Gus Bradley
+2014,4,JAX,2014_04_JAX_SD,Jedd Fisch,Bob Babich,Gus Bradley
+2014,5,JAX,2014_05_PIT_JAX,Jedd Fisch,Bob Babich,Gus Bradley
+2014,6,JAX,2014_06_JAX_TEN,Jedd Fisch,Bob Babich,Gus Bradley
+2014,7,JAX,2014_07_CLE_JAX,Jedd Fisch,Bob Babich,Gus Bradley
+2014,8,JAX,2014_08_MIA_JAX,Jedd Fisch,Bob Babich,Gus Bradley
+2014,9,JAX,2014_09_JAX_CIN,Jedd Fisch,Bob Babich,Gus Bradley
+2014,10,JAX,2014_10_DAL_JAX,Jedd Fisch,Bob Babich,Gus Bradley
+2014,12,JAX,2014_12_JAX_IND,Jedd Fisch,Bob Babich,Gus Bradley
+2014,13,JAX,2014_13_NYG_JAX,Jedd Fisch,Bob Babich,Gus Bradley
+2014,14,JAX,2014_14_HOU_JAX,Jedd Fisch,Bob Babich,Gus Bradley
+2014,15,JAX,2014_15_JAX_BAL,Jedd Fisch,Bob Babich,Gus Bradley
+2014,16,JAX,2014_16_TEN_JAX,Jedd Fisch,Bob Babich,Gus Bradley
+2014,17,JAX,2014_17_JAX_HOU,Jedd Fisch,Bob Babich,Gus Bradley
 2015,1,JAX,2015_01_CAR_JAX,Greg Olson,Bob Babich,Gus Bradley
 2015,2,JAX,2015_02_MIA_JAX,Greg Olson,Bob Babich,Gus Bradley
 2015,3,JAX,2015_03_JAX_NE,Greg Olson,Bob Babich,Gus Bradley
@@ -9364,24 +9364,24 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2026,16,MIA,2026_16_LAC_MIA,Bobby Slowik,Jeff Hafley,Jeff Hafley
 2026,17,MIA,2026_17_BUF_MIA,Bobby Slowik,Jeff Hafley,Jeff Hafley
 2026,18,MIA,2026_18_MIA_NE,Bobby Slowik,Jeff Hafley,Jeff Hafley
-1999,1,MIN,1999_01_MIN_ATL,Sherman Lewis,Foge Fazio,Dennis Green
-1999,2,MIN,1999_02_OAK_MIN,Sherman Lewis,Foge Fazio,Dennis Green
-1999,3,MIN,1999_03_MIN_GB,Sherman Lewis,Foge Fazio,Dennis Green
-1999,4,MIN,1999_04_TB_MIN,Sherman Lewis,Foge Fazio,Dennis Green
-1999,5,MIN,1999_05_CHI_MIN,Sherman Lewis,Foge Fazio,Dennis Green
-1999,6,MIN,1999_06_MIN_DET,Sherman Lewis,Foge Fazio,Dennis Green
-1999,7,MIN,1999_07_SF_MIN,Sherman Lewis,Foge Fazio,Dennis Green
-1999,8,MIN,1999_08_MIN_DEN,Sherman Lewis,Foge Fazio,Dennis Green
-1999,9,MIN,1999_09_DAL_MIN,Sherman Lewis,Foge Fazio,Dennis Green
-1999,10,MIN,1999_10_MIN_CHI,Sherman Lewis,Foge Fazio,Dennis Green
-1999,12,MIN,1999_12_SD_MIN,Sherman Lewis,Foge Fazio,Dennis Green
-1999,13,MIN,1999_13_MIN_TB,Sherman Lewis,Foge Fazio,Dennis Green
-1999,14,MIN,1999_14_MIN_KC,Sherman Lewis,Foge Fazio,Dennis Green
-1999,15,MIN,1999_15_GB_MIN,Sherman Lewis,Foge Fazio,Dennis Green
-1999,16,MIN,1999_16_MIN_NYG,Sherman Lewis,Foge Fazio,Dennis Green
-1999,17,MIN,1999_17_DET_MIN,Sherman Lewis,Foge Fazio,Dennis Green
-1999,18,MIN,1999_18_DAL_MIN,Sherman Lewis,Foge Fazio,Dennis Green
-1999,19,MIN,1999_19_MIN_STL,Sherman Lewis,Foge Fazio,Dennis Green
+1999,1,MIN,1999_01_MIN_ATL,Ray Sherman,Foge Fazio,Dennis Green
+1999,2,MIN,1999_02_OAK_MIN,Ray Sherman,Foge Fazio,Dennis Green
+1999,3,MIN,1999_03_MIN_GB,Ray Sherman,Foge Fazio,Dennis Green
+1999,4,MIN,1999_04_TB_MIN,Ray Sherman,Foge Fazio,Dennis Green
+1999,5,MIN,1999_05_CHI_MIN,Ray Sherman,Foge Fazio,Dennis Green
+1999,6,MIN,1999_06_MIN_DET,Ray Sherman,Foge Fazio,Dennis Green
+1999,7,MIN,1999_07_SF_MIN,Ray Sherman,Foge Fazio,Dennis Green
+1999,8,MIN,1999_08_MIN_DEN,Ray Sherman,Foge Fazio,Dennis Green
+1999,9,MIN,1999_09_DAL_MIN,Ray Sherman,Foge Fazio,Dennis Green
+1999,10,MIN,1999_10_MIN_CHI,Ray Sherman,Foge Fazio,Dennis Green
+1999,12,MIN,1999_12_SD_MIN,Ray Sherman,Foge Fazio,Dennis Green
+1999,13,MIN,1999_13_MIN_TB,Ray Sherman,Foge Fazio,Dennis Green
+1999,14,MIN,1999_14_MIN_KC,Ray Sherman,Foge Fazio,Dennis Green
+1999,15,MIN,1999_15_GB_MIN,Ray Sherman,Foge Fazio,Dennis Green
+1999,16,MIN,1999_16_MIN_NYG,Ray Sherman,Foge Fazio,Dennis Green
+1999,17,MIN,1999_17_DET_MIN,Ray Sherman,Foge Fazio,Dennis Green
+1999,18,MIN,1999_18_DAL_MIN,Ray Sherman,Foge Fazio,Dennis Green
+1999,19,MIN,1999_19_MIN_STL,Ray Sherman,Foge Fazio,Dennis Green
 2000,1,MIN,2000_01_CHI_MIN,Sherman Lewis,Emmitt Thomas,Dennis Green
 2000,2,MIN,2000_02_MIA_MIN,Sherman Lewis,Emmitt Thomas,Dennis Green
 2000,3,MIN,2000_03_MIN_NE,Sherman Lewis,Emmitt Thomas,Dennis Green
@@ -12890,22 +12890,22 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2008,15,SEA,2008_15_SEA_STL,Mike Holmgren,John Marshall,Mike Holmgren
 2008,16,SEA,2008_16_NYJ_SEA,Mike Holmgren,John Marshall,Mike Holmgren
 2008,17,SEA,2008_17_SEA_ARI,Mike Holmgren,John Marshall,Mike Holmgren
-2009,1,SEA,2009_01_STL_SEA,Greg Knapp,Gus Bradley,Jim Mora
-2009,2,SEA,2009_02_SEA_SF,Greg Knapp,Gus Bradley,Jim Mora
-2009,3,SEA,2009_03_CHI_SEA,Greg Knapp,Gus Bradley,Jim Mora
-2009,4,SEA,2009_04_SEA_IND,Greg Knapp,Gus Bradley,Jim Mora
-2009,5,SEA,2009_05_JAX_SEA,Greg Knapp,Gus Bradley,Jim Mora
-2009,6,SEA,2009_06_ARI_SEA,Greg Knapp,Gus Bradley,Jim Mora
-2009,8,SEA,2009_08_SEA_DAL,Greg Knapp,Gus Bradley,Jim Mora
-2009,9,SEA,2009_09_DET_SEA,Greg Knapp,Gus Bradley,Jim Mora
-2009,10,SEA,2009_10_SEA_ARI,Greg Knapp,Gus Bradley,Jim Mora
-2009,11,SEA,2009_11_SEA_MIN,Greg Knapp,Gus Bradley,Jim Mora
-2009,12,SEA,2009_12_SEA_STL,Greg Knapp,Gus Bradley,Jim Mora
-2009,13,SEA,2009_13_SF_SEA,Greg Knapp,Gus Bradley,Jim Mora
-2009,14,SEA,2009_14_SEA_HOU,Greg Knapp,Gus Bradley,Jim Mora
-2009,15,SEA,2009_15_TB_SEA,Greg Knapp,Gus Bradley,Jim Mora
-2009,16,SEA,2009_16_SEA_GB,Greg Knapp,Gus Bradley,Jim Mora
-2009,17,SEA,2009_17_TEN_SEA,Greg Knapp,Gus Bradley,Jim Mora
+2009,1,SEA,2009_01_STL_SEA,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,2,SEA,2009_02_SEA_SF,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,3,SEA,2009_03_CHI_SEA,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,4,SEA,2009_04_SEA_IND,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,5,SEA,2009_05_JAX_SEA,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,6,SEA,2009_06_ARI_SEA,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,8,SEA,2009_08_SEA_DAL,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,9,SEA,2009_09_DET_SEA,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,10,SEA,2009_10_SEA_ARI,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,11,SEA,2009_11_SEA_MIN,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,12,SEA,2009_12_SEA_STL,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,13,SEA,2009_13_SF_SEA,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,14,SEA,2009_14_SEA_HOU,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,15,SEA,2009_15_TB_SEA,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,16,SEA,2009_16_SEA_GB,Greg Knapp,Gus Bradley,Jim L. Mora
+2009,17,SEA,2009_17_TEN_SEA,Greg Knapp,Gus Bradley,Jim L. Mora
 2010,1,SEA,2010_01_SF_SEA,Jeremy Bates,Gus Bradley,Pete Carroll
 2010,2,SEA,2010_02_SEA_DEN,Jeremy Bates,Gus Bradley,Pete Carroll
 2010,3,SEA,2010_03_SD_SEA,Jeremy Bates,Gus Bradley,Pete Carroll
@@ -14712,73 +14712,73 @@ season,week,team,game_id,off_play_caller,def_play_caller,head_coach
 2003,15,WAS,2003_15_DAL_WAS,Steve Spurrier,George Edwards,Steve Spurrier
 2003,16,WAS,2003_16_WAS_CHI,Steve Spurrier,George Edwards,Steve Spurrier
 2003,17,WAS,2003_17_PHI_WAS,Steve Spurrier,George Edwards,Steve Spurrier
-2004,1,WAS,2004_01_TB_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2004,2,WAS,2004_02_WAS_NYG,Don Beraux,Gregg Williams,Joe Gibbs
-2004,3,WAS,2004_03_DAL_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2004,4,WAS,2004_04_WAS_CLE,Don Beraux,Gregg Williams,Joe Gibbs
-2004,5,WAS,2004_05_BAL_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2004,6,WAS,2004_06_WAS_CHI,Don Beraux,Gregg Williams,Joe Gibbs
-2004,8,WAS,2004_08_GB_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2004,9,WAS,2004_09_WAS_DET,Don Beraux,Gregg Williams,Joe Gibbs
-2004,10,WAS,2004_10_CIN_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2004,11,WAS,2004_11_WAS_PHI,Don Beraux,Gregg Williams,Joe Gibbs
-2004,12,WAS,2004_12_WAS_PIT,Don Beraux,Gregg Williams,Joe Gibbs
-2004,13,WAS,2004_13_NYG_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2004,14,WAS,2004_14_PHI_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2004,15,WAS,2004_15_WAS_SF,Don Beraux,Gregg Williams,Joe Gibbs
-2004,16,WAS,2004_16_WAS_DAL,Don Beraux,Gregg Williams,Joe Gibbs
-2004,17,WAS,2004_17_MIN_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2005,1,WAS,2005_01_CHI_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2005,2,WAS,2005_02_WAS_DAL,Don Beraux,Gregg Williams,Joe Gibbs
-2005,4,WAS,2005_04_SEA_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2005,5,WAS,2005_05_WAS_DEN,Don Beraux,Gregg Williams,Joe Gibbs
-2005,6,WAS,2005_06_WAS_KC,Don Beraux,Gregg Williams,Joe Gibbs
-2005,7,WAS,2005_07_SF_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2005,8,WAS,2005_08_WAS_NYG,Don Beraux,Gregg Williams,Joe Gibbs
-2005,9,WAS,2005_09_PHI_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2005,10,WAS,2005_10_WAS_TB,Don Beraux,Gregg Williams,Joe Gibbs
-2005,11,WAS,2005_11_OAK_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2005,12,WAS,2005_12_SD_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2005,13,WAS,2005_13_WAS_STL,Don Beraux,Gregg Williams,Joe Gibbs
-2005,14,WAS,2005_14_WAS_ARI,Don Beraux,Gregg Williams,Joe Gibbs
-2005,15,WAS,2005_15_DAL_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2005,16,WAS,2005_16_NYG_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2005,17,WAS,2005_17_WAS_PHI,Don Beraux,Gregg Williams,Joe Gibbs
-2005,18,WAS,2005_18_WAS_TB,Don Beraux,Gregg Williams,Joe Gibbs
-2005,19,WAS,2005_19_WAS_SEA,Don Beraux,Gregg Williams,Joe Gibbs
-2006,1,WAS,2006_01_MIN_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2006,2,WAS,2006_02_WAS_DAL,Don Beraux,Gregg Williams,Joe Gibbs
-2006,3,WAS,2006_03_WAS_HOU,Don Beraux,Gregg Williams,Joe Gibbs
-2006,4,WAS,2006_04_JAX_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2006,5,WAS,2006_05_WAS_NYG,Don Beraux,Gregg Williams,Joe Gibbs
-2006,6,WAS,2006_06_TEN_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2006,7,WAS,2006_07_WAS_IND,Don Beraux,Gregg Williams,Joe Gibbs
-2006,9,WAS,2006_09_DAL_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2006,10,WAS,2006_10_WAS_PHI,Don Beraux,Gregg Williams,Joe Gibbs
-2006,11,WAS,2006_11_WAS_TB,Don Beraux,Gregg Williams,Joe Gibbs
-2006,12,WAS,2006_12_CAR_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2006,13,WAS,2006_13_ATL_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2006,14,WAS,2006_14_PHI_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2006,15,WAS,2006_15_WAS_NO,Don Beraux,Gregg Williams,Joe Gibbs
-2006,16,WAS,2006_16_WAS_STL,Don Beraux,Gregg Williams,Joe Gibbs
-2006,17,WAS,2006_17_NYG_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2007,1,WAS,2007_01_MIA_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2007,2,WAS,2007_02_WAS_PHI,Don Beraux,Gregg Williams,Joe Gibbs
-2007,3,WAS,2007_03_NYG_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2007,5,WAS,2007_05_DET_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2007,6,WAS,2007_06_WAS_GB,Don Beraux,Gregg Williams,Joe Gibbs
-2007,7,WAS,2007_07_ARI_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2007,8,WAS,2007_08_WAS_NE,Don Beraux,Gregg Williams,Joe Gibbs
-2007,9,WAS,2007_09_WAS_NYJ,Don Beraux,Gregg Williams,Joe Gibbs
-2007,10,WAS,2007_10_PHI_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2007,11,WAS,2007_11_WAS_DAL,Don Beraux,Gregg Williams,Joe Gibbs
-2007,12,WAS,2007_12_WAS_TB,Don Beraux,Gregg Williams,Joe Gibbs
-2007,13,WAS,2007_13_BUF_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2007,14,WAS,2007_14_CHI_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2007,15,WAS,2007_15_WAS_NYG,Don Beraux,Gregg Williams,Joe Gibbs
-2007,16,WAS,2007_16_WAS_MIN,Don Beraux,Gregg Williams,Joe Gibbs
-2007,17,WAS,2007_17_DAL_WAS,Don Beraux,Gregg Williams,Joe Gibbs
-2007,18,WAS,2007_18_WAS_SEA,Don Beraux,Gregg Williams,Joe Gibbs
+2004,1,WAS,2004_01_TB_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2004,2,WAS,2004_02_WAS_NYG,Don Breaux,Gregg Williams,Joe Gibbs
+2004,3,WAS,2004_03_DAL_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2004,4,WAS,2004_04_WAS_CLE,Don Breaux,Gregg Williams,Joe Gibbs
+2004,5,WAS,2004_05_BAL_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2004,6,WAS,2004_06_WAS_CHI,Don Breaux,Gregg Williams,Joe Gibbs
+2004,8,WAS,2004_08_GB_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2004,9,WAS,2004_09_WAS_DET,Don Breaux,Gregg Williams,Joe Gibbs
+2004,10,WAS,2004_10_CIN_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2004,11,WAS,2004_11_WAS_PHI,Don Breaux,Gregg Williams,Joe Gibbs
+2004,12,WAS,2004_12_WAS_PIT,Don Breaux,Gregg Williams,Joe Gibbs
+2004,13,WAS,2004_13_NYG_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2004,14,WAS,2004_14_PHI_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2004,15,WAS,2004_15_WAS_SF,Don Breaux,Gregg Williams,Joe Gibbs
+2004,16,WAS,2004_16_WAS_DAL,Don Breaux,Gregg Williams,Joe Gibbs
+2004,17,WAS,2004_17_MIN_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2005,1,WAS,2005_01_CHI_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2005,2,WAS,2005_02_WAS_DAL,Don Breaux,Gregg Williams,Joe Gibbs
+2005,4,WAS,2005_04_SEA_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2005,5,WAS,2005_05_WAS_DEN,Don Breaux,Gregg Williams,Joe Gibbs
+2005,6,WAS,2005_06_WAS_KC,Don Breaux,Gregg Williams,Joe Gibbs
+2005,7,WAS,2005_07_SF_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2005,8,WAS,2005_08_WAS_NYG,Don Breaux,Gregg Williams,Joe Gibbs
+2005,9,WAS,2005_09_PHI_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2005,10,WAS,2005_10_WAS_TB,Don Breaux,Gregg Williams,Joe Gibbs
+2005,11,WAS,2005_11_OAK_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2005,12,WAS,2005_12_SD_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2005,13,WAS,2005_13_WAS_STL,Don Breaux,Gregg Williams,Joe Gibbs
+2005,14,WAS,2005_14_WAS_ARI,Don Breaux,Gregg Williams,Joe Gibbs
+2005,15,WAS,2005_15_DAL_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2005,16,WAS,2005_16_NYG_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2005,17,WAS,2005_17_WAS_PHI,Don Breaux,Gregg Williams,Joe Gibbs
+2005,18,WAS,2005_18_WAS_TB,Don Breaux,Gregg Williams,Joe Gibbs
+2005,19,WAS,2005_19_WAS_SEA,Don Breaux,Gregg Williams,Joe Gibbs
+2006,1,WAS,2006_01_MIN_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2006,2,WAS,2006_02_WAS_DAL,Don Breaux,Gregg Williams,Joe Gibbs
+2006,3,WAS,2006_03_WAS_HOU,Don Breaux,Gregg Williams,Joe Gibbs
+2006,4,WAS,2006_04_JAX_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2006,5,WAS,2006_05_WAS_NYG,Don Breaux,Gregg Williams,Joe Gibbs
+2006,6,WAS,2006_06_TEN_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2006,7,WAS,2006_07_WAS_IND,Don Breaux,Gregg Williams,Joe Gibbs
+2006,9,WAS,2006_09_DAL_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2006,10,WAS,2006_10_WAS_PHI,Don Breaux,Gregg Williams,Joe Gibbs
+2006,11,WAS,2006_11_WAS_TB,Don Breaux,Gregg Williams,Joe Gibbs
+2006,12,WAS,2006_12_CAR_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2006,13,WAS,2006_13_ATL_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2006,14,WAS,2006_14_PHI_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2006,15,WAS,2006_15_WAS_NO,Don Breaux,Gregg Williams,Joe Gibbs
+2006,16,WAS,2006_16_WAS_STL,Don Breaux,Gregg Williams,Joe Gibbs
+2006,17,WAS,2006_17_NYG_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2007,1,WAS,2007_01_MIA_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2007,2,WAS,2007_02_WAS_PHI,Don Breaux,Gregg Williams,Joe Gibbs
+2007,3,WAS,2007_03_NYG_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2007,5,WAS,2007_05_DET_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2007,6,WAS,2007_06_WAS_GB,Don Breaux,Gregg Williams,Joe Gibbs
+2007,7,WAS,2007_07_ARI_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2007,8,WAS,2007_08_WAS_NE,Don Breaux,Gregg Williams,Joe Gibbs
+2007,9,WAS,2007_09_WAS_NYJ,Don Breaux,Gregg Williams,Joe Gibbs
+2007,10,WAS,2007_10_PHI_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2007,11,WAS,2007_11_WAS_DAL,Don Breaux,Gregg Williams,Joe Gibbs
+2007,12,WAS,2007_12_WAS_TB,Don Breaux,Gregg Williams,Joe Gibbs
+2007,13,WAS,2007_13_BUF_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2007,14,WAS,2007_14_CHI_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2007,15,WAS,2007_15_WAS_NYG,Don Breaux,Gregg Williams,Joe Gibbs
+2007,16,WAS,2007_16_WAS_MIN,Don Breaux,Gregg Williams,Joe Gibbs
+2007,17,WAS,2007_17_DAL_WAS,Don Breaux,Gregg Williams,Joe Gibbs
+2007,18,WAS,2007_18_WAS_SEA,Don Breaux,Gregg Williams,Joe Gibbs
 2008,1,WAS,2008_01_WAS_NYG,Jim Zorn,Greg Blache,Jim Zorn
 2008,2,WAS,2008_02_NO_WAS,Jim Zorn,Greg Blache,Jim Zorn
 2008,3,WAS,2008_03_ARI_WAS,Jim Zorn,Greg Blache,Jim Zorn

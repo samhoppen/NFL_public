@@ -20,6 +20,11 @@ Denise DeBartolo York,49ers,2000,2023,Co-Owner,Owner
 John York,49ers,2000,2023,Co-Owner,Owner
 John Lynch,49ers,2017,2025,General Manager,General Manager
 Jed York,49ers,2009,2025,Owner/CEO,Owner
+A.E. Staley,Bears,1919,1920,Founder/Owner,Owner
+George Halas,Bears,1920,1920,Head Coach/General Manager,Head Coach/General Manager
+George Halas,Bears,1921,1931,Co-Owner/General Manager,Owner/General Manager
+Dutch Sternaman,Bears,1921,1931,Co-Owner,Owner
+George Halas,Bears,1932,1935,Principal Owner/General Manager,Owner/General Manager
 Ralph Brizzolara,Bears,1942,1945,Acting President/General Manager,President/General Manager
 George Halas Jr.,Bears,1963,1973,President/General Manager,President/General Manager
 Bobby Walston,Bears,1968,1973,Director of Player Personnel,Director
@@ -29,22 +34,23 @@ George Halas,Bears,1943,1945,Principal Owner,Owner
 George Halas,Bears,1963,1982,Principal Owner,Owner
 George Halas,Bears,1946,1962,Principal Owner/Head Coach/General Manager,Owner/General Manager
 Jerry Vainisi,Bears,1983,1986,General Manager,General Manager
+Michael McCaskey,Bears,1983,2011,President/Chairman,President
 Bill Tobin,Bears,1987,1992,Director of Player Personnel/de facto General Manager,Director/General Manager
 Dave Wannstedt,Bears,1993,1993,Head Coach/de facto General Manager,Head Coach/General Manager
 Rod Graves,Bears,1994,1996,Director of Player Personnel/de facto General Manager,Director/General Manager
 Mark Hatley,Bears,1997,2000,VP of Personnel/de facto General Manager,VP/General Manager
 Jerry Angelo,Bears,2001,2011,General Manager,General Manager
 Phil Emery,Bears,2012,2014,General Manager,General Manager
+George McCaskey,Bears,2012,2024,President/Chairman,President
 Ryan Pace,Bears,2015,2021,General Manager,General Manager
-George McCaskey,Bears,2025,2025,Secretary of the Board of Directors,General Executive
-Virginia Halas McCaskey,Bears,1983,2024,Secretary of the Board of Directors,General Executive
+George McCaskey,Bears,2025,2025,Owner/Chairman,Owner
+Virginia Halas McCaskey,Bears,1983,2024,Owner,Owner
 Ryan Poles,Bears,2022,2025,General Manager,General Manager
+Pat McCaskey,Bears,2025,2025,Secretary of the Board of Directors,General Executive
 Paul Brown,Bengals,1968,1990,Owner/General Manager,Owner/General Manager
 John Sawyer,Bengals,1983,1990,Owner/President,Owner
 Mike Brown,Bengals,1991,2025,Owner/General Manager,Owner/General Manager
 Duke Tobin,Bengals,2002,2025,Director of Player Personnel,Director
-Carl Owen,Bills,1947,1947,General Manager,General Manager
-James Breuil,Bills,1946,1949,Principal Owner,Owner
 Richard Gallagher,Bills,1960,1966,General Manager,General Manager
 Bob Lustig,Bills,1967,1978,General Manager/VP,General Manager
 Stew Barber,Bills,1979,1982,General Manager/VP of Administration,VP/General Manager
@@ -63,7 +69,6 @@ Doug Whaley,Bills,2013,2016,General Manager,General Manager
 Brandon Beane,Bills,2017,2025,General Manager,General Manager
 Kim Pegula,Bills,2014,2025,Owner,Owner
 Terry Pegula,Bills,2014,2025,Owner,Owner
-Sam Cordovano,Bills,1946,1946,VP/General Manager/Head Coach,VP/General Manager
 Robert Howsam,Broncos,1960,1960,Owner/President,Owner
 Dean Griffing,Broncos,1960,1961,General Manager,General Manager
 Jack Faulkner,Broncos,1962,1964,General Manager,General Manager
@@ -89,6 +94,7 @@ John Elway,Broncos,2013,2020,Executive VP of Football Operations/General Manager
 Joe Ellis,Broncos,2019,2021,President/CEO,President
 George Paton,Broncos,2021,2025,General Manager,General Manager
 Greg Penner,Broncos,2022,2025,Owner/CEO,Owner
+Rob Walton,Broncos,2022,2025,Owner,Owner
 Arthur McBride,Browns,1946,1952,Principal Owner,Owner
 David Jones,Browns,1953,1960,President/Partial Owner,Owner
 Ellis Ryan,Browns,1953,1960,President/Partial Owner,Owner
@@ -101,6 +107,8 @@ Dwight Clark,Browns,1999,2001,General Manager,General Manager
 Al Lerner,Browns,1999,2001,Principal Owner,Owner
 Butch Davis,Browns,2002,2004,Head Coach/General Manager,Head Coach/General Manager
 Phil Savage,Browns,2005,2008,General Manager,General Manager
+Lud Wray,Eagles,1933,1935,Co-Owner,Owner
+Bert Bell,Eagles,1933,1935,Co-Owner/General Manager,Owner/General Manager
 Tom Heckert,Eagles,2006,2009,General Manager,General Manager
 George Kokinis,Browns,2009,2009,General Manager,General Manager
 Randy Lerner,Browns,2002,2011,Principal Owner/President,Owner
@@ -111,10 +119,13 @@ Sashi Brown,Browns,2016,2017,Executive VP of Football Operations,VP
 Andrew Berry,Browns,2020,2025,General Manager/Executive VP of Football Operations,VP/General Manager
 Dee Haslam,Browns,2012,2025,Principal Owner,Owner
 Jimmy Haslam III,Browns,2012,2025,Principal Owner,Owner
-John McKay,Buccaneers,1976,1977,Head Coach/de facto General Manager,Head Coach/General Manager
+Ron Wolf,Buccaneers,1976,1977,Director of Player Personnel,Director
+John McKay,Buccaneers,1978,1984,Head Coach/de facto General Manager,Head Coach/General Manager
+Leeman Bennett,Buccaneers,1985,1986,Head Coach/Player Personnel,Head Coach/Executive
 Ray Perkins,Buccaneers,1987,1990,Head Coach/VP of Player Personnel,Head Coach/Executive
 Phil Krueger,Buccaneers,1978,1991,General Manager/Assistant to the President,General Manager
 Hugh Culverhouse,Buccaneers,1976,1993,Owner/President,Owner
+Sam Wyche,Buccaneers,1992,1994,Head Coach/Player Personnel,Head Coach/Executive
 Fred Cone,Buccaneers,1994,1994,Trustee of the Culverhouse Estate,General Executive
 Jack Donlan,Buccaneers,1994,1994,Trustee of the Culverhouse Estate,General Executive
 Stephen Story,Buccaneers,1994,1994,Trustee of the Culverhouse Estate,General Executive
@@ -124,10 +135,21 @@ Mark Dominik,Buccaneers,2009,2013,General Manager,General Manager
 Malcolm Glazer,Buccaneers,1995,2013,Principal Owner/President,Owner
 Bryan Glazer,Buccaneers,2014,2025,Co-Chairman/Owner,Owner
 Jason Licht,Buccaneers,2014,2025,General Manager,General Manager
-Charles Bidwill,Cardinals,1936,1946,Principal Owner,Owner
+Chris O'Brien,Cardinals,1898,1905,General Manager,General Manager
+Chris O'Brien,Cardinals,1898,1905,Founder/Principal Owner,Owner
+Chris O'Brien,Cardinals,1913,1917,Founder/Principal Owner,Owner
+Chris O'Brien,Cardinals,1913,1917,General Manager,General Manager
+Chris O'Brien,Cardinals,1919,1929,Founder/Principal Owner,Owner
+Chris O'Brien,Cardinals,1919,1929,General Manager,General Manager
+David Jones,Cardinals,1930,1931,Principal Owner,Owner
+David Jones,Cardinals,1930,1932,General Manager,General Manager
+Charles Bidwill,Cardinals,1932,1946,Principal Owner,Owner
+Charles Bidwill,Cardinals,1933,1935,General Manager,General Manager
 Arch Wolfe,Cardinals,1936,1946,General Manager,General Manager
 Ray Bennigsen,Cardinals,1947,1951,President/General Manager,President/General Manager
-Curly Lambeau,Packers,1936,1949,Head Coach/General Manager,Head Coach/General Manager
+George Whitney Calhoun,Packers,1919,1923,Founder/Co-Owner,Owner
+Curly Lambeau,Packers,1919,1923,Founder/Co-Owner,Owner
+Curly Lambeau,Packers,1919,1949,Head Coach/General Manager,Head Coach/General Manager
 Violet Bidwill Wolfner,Cardinals,1947,1961,Principal Owner,Owner
 Walter Wolfner,Cardinals,1952,1961,Managing Director,General Executive
 Charles Bidwill Jr.,Cardinals,1962,1971,Partial Owner/President,Owner
@@ -170,8 +192,6 @@ Scott Pioli,Chiefs,2009,2012,General Manager,General Manager
 John Dorsey,Browns,2018,2019,General Manager,General Manager
 Clark Hunt,Chiefs,2007,2025,Chairman/CEO,General Executive
 Brett Veach,Chiefs,2017,2025,General Manager,General Manager
-Walt Driskill,Colts,1948,1948,President/Head Coach/General Manager,Head Coach/General Manager
-Walt Driskill,Colts,1949,1949,President/General Manager,President/General Manager
 Don Kellett,Colts,1953,1966,President/General Manager,President/General Manager
 Joe Campanella,Colts,1966,1967,Vice President/General Manager,VP/General Manager
 Harry Hulmes,Colts,1967,1969,Acting General Manager,General Manager
@@ -187,12 +207,14 @@ Chris Polian,Colts,2009,2011,VP of Football Operations/General Manager,VP/Genera
 Ryan Grigson,Colts,2012,2016,General Manager,General Manager
 Chris Ballard,Colts,2017,2025,General Manager,General Manager
 Jim Irsay,Colts,1984,1993,Vice President/General Manager,VP/General Manager
-Jim Irsay,Colts,1997,2025,Owner/CEO,Owner
-Jack Espey,Commanders,1936,1943,General Manager,General Manager
+Jim Irsay,Colts,1997,2024,Owner/CEO,Owner
+Carlie Irsay-Gordon,Colts,2025,2025,Owner/CEO,Owner
+George Preston Marshall,Commanders,1932,1936,General Manager,General Manager
+Jack Espey,Commanders,1937,1943,General Manager,General Manager
 Dick McCann,Commanders,1947,1961,General Manager,General Manager
 Bill McPeak,Commanders,1962,1965,Head Coach/General Manager,Head Coach/General Manager
 Otto Graham,Commanders,1966,1968,Head Coach/General Manager,Head Coach/General Manager
-George Preston Marshall,Commanders,1936,1968,Owner/President,Owner
+George Preston Marshall,Commanders,1932,1968,Owner/President,Owner
 Vince Lombardi,Commanders,1969,1970,Head Coach/Executive VP of Football Operations,Head Coach/Executive
 Edward Bennett Williams,Commanders,1969,1973,President/Partial Owner,Owner
 George Allen,Commanders,1971,1977,Head Coach/General Manager,Head Coach/General Manager
@@ -311,6 +333,7 @@ David Caldwell,Jaguars,2013,2020,General Manager,General Manager
 James Gladstone,Jaguars,2025,2025,General Manager,General Manager
 Trent Baalke,Jaguars,2021,2024,General Manager,General Manager
 Shahid Khan,Jaguars,2012,2025,Principal Owner,Owner
+Harry Wismer,Jets,1960,1962,Founder/Principal Owner,Owner
 George Sauer Sr.,Jets,1962,1962,General Manager,General Manager
 Sonny Werblin,Jets,1963,1967,Majority Owner,Owner
 Weeb Ewbank,Jets,1963,1974,Head Coach/General Manager,Head Coach/General Manager
@@ -332,8 +355,11 @@ Mike Maccagnan,Jets,2015,2018,General Manager,General Manager
 Joe Douglas,Jets,2019,2024,General Manager,General Manager
 Darren Mougey,Jets,2025,2025,General Manager,General Manager
 Woody Johnson,Jets,2000,2025,Chairman/CEO,General Executive
+Harold Griffen,Lions,1928,1930,Head Coach/General Manager,Head Coach/General Manager
+Harry Snyder,Lions,1930,1933,Largest Shareholder/Principal Owner,Owner
+Potsy Clark,Lions,1931,1933,Head Coach/General Manager,Head Coach/General Manager
 Dutch Clark,Lions,1936,1938,Head Coach/General Manager,Head Coach/General Manager
-George Richards,Lions,1936,1939,Majority Owner,Owner
+George Richards,Lions,1934,1939,Majority Owner,Owner
 Graham Smith,Lions,1941,1942,General Manager,General Manager
 Fred Mandel,Lions,1940,1947,Principal Owner,Owner
 Bo McMillin,Lions,1948,1950,Head Coach/General Manager,Head Coach/General Manager
@@ -381,6 +407,7 @@ Forrest Gregg,Packers,1984,1986,Head Coach/de facto General Manager,Head Coach/G
 Chuck Hutchison,Packers,1985,1986,Director of Player Procurement,Director
 Robert Parins,Packers,1982,1988,President,President
 Tom Braatz,Packers,1987,1991,Executive VP/Director of Football Operations,VP
+Bob Harlan,Packers,1987,1988,Assistant to the President/Corporate,General Executive
 Ron Wolf,Packers,1992,2000,General Manager,General Manager
 Mike Sherman,Packers,2001,2004,Head Coach/General Manager,Head Coach/General Manager
 John Jones,Packers,2006,2006,President,President
@@ -435,10 +462,12 @@ Champ Kelly,Raiders,2023,2023,Interim General Manager,Interim General Manager
 Dave Ziegler,Raiders,2022,2023,General Manager,General Manager
 John Spytek,Raiders,2025,2025,General Manager,General Manager
 Mark Davis,Raiders,2011,2025,Owner,Owner
+Buzz Wetzel,Rams,1936,1938,General Manager,General Manager
+Homer Marshman,Rams,1936,1940,Founder/Principal Owner,Owner
 Dutch Clark,Rams,1939,1940,Head Coach/General Manager,Head Coach/General Manager
 Tom Lipscomb,Rams,1938,1940,President,President
 Billy Evans,Rams,1941,1941,General Manager,General Manager
-Chile Walsh,Rams,1945,1956,General Manager,General Manager
+Chile Walsh,Rams,1944,1956,General Manager,General Manager
 Edwin Pauley,Rams,1949,1962,Co-Owner,Owner
 Elroy Hirsch,Rams,1960,1969,General Manager,General Manager
 Dan Reeves,Rams,1941,1941,Owner,Owner
@@ -459,7 +488,7 @@ Charley Armey,Rams,2000,2005,General Manager,General Manager
 Georgia Frontiere,Rams,1979,2007,Majority Owner/Chairman,Owner
 Jay Zygmunt,Rams,2000,2005,President of Football Operations,President
 Jay Zygmunt,Rams,2006,2008,President of Football Operations/General Manager,President/General Manager
-Lucia Rodriquez,Rams,2008,2009,Co-Owner,Owner
+Lucia Rodriguez,Rams,2008,2009,Co-Owner,Owner
 Chip Rosenbloom,Rams,2008,2009,Co-Owner,Owner
 Billy Devaney,Rams,2009,2011,General Manager,General Manager
 Jeff Fisher,Rams,2012,2013,Head Coach/VP of Player Personnel,Head Coach/Executive
@@ -501,10 +530,11 @@ Paul Allen,Seahawks,1997,2018,Chairman,General Executive
 Pete Carroll,Seahawks,2010,2023,Head Coach/VP of Football Ops,Head Coach/Executive
 Jody Allen,Seahawks,2019,2025,Chair,General Executive
 John Schneider,Seahawks,2010,2025,Executive VP/General Manager,VP/General Manager
+Art Rooney,Steelers,1933,1942,General Manager,General Manager
 John Holahan,Steelers,1945,1950,General Manager,General Manager
 Francis Fogarty,Steelers,1951,1968,General Manager,General Manager
 Art Rooney Jr.,Steelers,1971,1986,VP of Player Personnel/de facto General Manager,VP/General Manager
-Art Rooney,Steelers,1936,1987,Owner,Owner
+Art Rooney,Steelers,1933,1987,Owner,Owner
 Dick Haley,Steelers,1987,1990,Director of Player Personnel/de facto General Manager,Director/General Manager
 Tom Donahoe,Steelers,1991,1999,General Manager/Director of Football Operations,Director/General Manager
 Dan Rooney,Steelers,1969,1970,General Manager,General Manager
@@ -522,7 +552,6 @@ Janice McNair,Texans,2019,2023,Principal Owner,Owner
 Nick Caserio,Texans,2021,2025,General Manager,General Manager
 Cal McNair,Texans,2019,2025,Owner/CEO,Owner
 Steve Sebo,Jets,1960,1961,General Manager,General Manager
-Harry Wismer,Titans,1960,1962,Founder/Principal Owner,Owner
 Don Klosterman,Titans,1966,1969,General Manager,General Manager
 Sid Gillman,Titans,1973,1973,Executive VP/General Manager,VP/General Manager
 Sid Gillman,Titans,1974,1974,Head Coach/General Manager,Head Coach/General Manager
@@ -554,7 +583,7 @@ Rob Brzezinski,Vikings,2002,2005,VP of Football Operations,VP
 Fran Foley,Vikings,2006,2006,VP of Player Personnel/de facto General Manager,VP/General Manager
 Rick Spielman,Vikings,2006,2021,Executive VP/General Manager,VP/General Manager
 Kwesi Adofo-Mensah,Vikings,2022,2025,General Manager,General Manager
-Zygi Wilf,Vikings,2005,2024,Principal Owner/Chairman,Owner
+Zygi Wilf,Vikings,2005,2025,Principal Owner/Chairman,Owner
 Joe Carr,,1921,1939,League President,Commissioner
 Carl Storck,,1939,1941,League President,Commissioner
 Elmer Layden,,1941,1946,Commissioner,Commissioner
