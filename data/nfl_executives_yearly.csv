@@ -450,6 +450,7 @@ George McCaskey,Bears,President/Chairman,President,2023,0
 Virginia Halas McCaskey,Bears,Owner,Owner,2024,0
 Ryan Poles,Bears,General Manager,General Manager,2024,1
 George McCaskey,Bears,President/Chairman,President,2024,0
+Pat McCaskey,Bears,Secretary of the Board of Directors,General Executive,2024,0
 George McCaskey,Bears,Owner/Chairman,Owner,2025,0
 Ryan Poles,Bears,General Manager,General Manager,2025,1
 Pat McCaskey,Bears,Secretary of the Board of Directors,General Executive,2025,0
@@ -837,15 +838,19 @@ Joe Ellis,Broncos,President/CEO,President,2021,0
 George Paton,Broncos,General Manager,General Manager,2022,1
 Greg Penner,Broncos,Owner/CEO,Owner,2022,0
 Rob Walton,Broncos,Owner,Owner,2022,0
+Carrie Walton Penner,Broncos,Owner,Owner,2022,0
 George Paton,Broncos,General Manager,General Manager,2023,1
 Greg Penner,Broncos,Owner/CEO,Owner,2023,0
 Rob Walton,Broncos,Owner,Owner,2023,0
+Carrie Walton Penner,Broncos,Owner,Owner,2023,0
 George Paton,Broncos,General Manager,General Manager,2024,1
 Greg Penner,Broncos,Owner/CEO,Owner,2024,0
 Rob Walton,Broncos,Owner,Owner,2024,0
+Carrie Walton Penner,Broncos,Owner,Owner,2024,0
 George Paton,Broncos,General Manager,General Manager,2025,1
 Greg Penner,Broncos,Owner/CEO,Owner,2025,0
 Rob Walton,Broncos,Owner,Owner,2025,0
+Carrie Walton Penner,Broncos,Owner,Owner,2025,0
 Paul Brown,Browns,Head Coach/General Manager,Head Coach/General Manager,1946,1
 Arthur McBride,Browns,Principal Owner,Owner,1946,0
 Paul Brown,Browns,Head Coach/General Manager,Head Coach/General Manager,1947,1
@@ -3058,8 +3063,10 @@ Harry Snyder,Lions,Largest Shareholder/Principal Owner,Owner,1932,0
 Potsy Clark,Lions,Head Coach/General Manager,Head Coach/General Manager,1932,1
 Harry Snyder,Lions,Largest Shareholder/Principal Owner,Owner,1933,0
 Potsy Clark,Lions,Head Coach/General Manager,Head Coach/General Manager,1933,1
-George Richards,Lions,Majority Owner,Owner,1934,0
-George Richards,Lions,Majority Owner,Owner,1935,0
+George Richards,Lions,Majority Owner/General Manager,Owner/General Manager,1934,1
+Potsy Clark,Lions,Head Coach,Head Coach,1934,0
+George Richards,Lions,Majority Owner/General Manager,Owner/General Manager,1935,1
+Potsy Clark,Lions,Head Coach,Head Coach,1935,0
 Dutch Clark,Lions,Head Coach/General Manager,Head Coach/General Manager,1936,1
 George Richards,Lions,Majority Owner,Owner,1936,0
 Dutch Clark,Lions,Head Coach/General Manager,Head Coach/General Manager,1937,1
